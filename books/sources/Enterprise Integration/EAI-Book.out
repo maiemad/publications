@@ -1,0 +1,276 @@
+\BOOKMARK [0][-]{chapter*.2}{Acknowledgment}{}% 1
+\BOOKMARK [0][-]{chapter*.14}{Preface}{}% 2
+\BOOKMARK [0][-]{chapter.1}{EIS and EA}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Introduction}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Management Support System}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{Enterprise Information System}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.2}{Group Support Systems}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.3}{Knowledge Management System}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.4}{Expert Systems}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.5}{Hybrid Support Systems}{section.1.2}% 10
+\BOOKMARK [2][-]{subsection.1.2.6}{Emerging Technologies}{section.1.2}% 11
+\BOOKMARK [1][-]{section.1.3}{Enterprise Architecture}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.3.1}{TOGAF}{section.1.3}% 13
+\BOOKMARK [2][-]{subsection.1.3.2}{ArchiMate}{section.1.3}% 14
+\BOOKMARK [2][-]{subsection.1.3.3}{Zachman Framework}{section.1.3}% 15
+\BOOKMARK [1][-]{section.1.4}{Zachman Framework: Detailed View}{chapter.1}% 16
+\BOOKMARK [2][-]{subsection.1.4.1}{Focus of Columns}{section.1.4}% 17
+\BOOKMARK [2][-]{subsection.1.4.2}{Models of Cells}{section.1.4}% 18
+\BOOKMARK [1][-]{section.1.5}{SOA Selected Topics}{chapter.1}% 19
+\BOOKMARK [2][-]{subsection.1.5.1}{SOA Definition}{section.1.5}% 20
+\BOOKMARK [2][-]{subsection.1.5.2}{SOA is an Architectural Style}{section.1.5}% 21
+\BOOKMARK [2][-]{subsection.1.5.3}{Fundamental Constructs of SOA}{section.1.5}% 22
+\BOOKMARK [2][-]{subsection.1.5.4}{Service Attributes}{section.1.5}% 23
+\BOOKMARK [2][-]{subsection.1.5.5}{EAI vs. SOA vs. SOI}{section.1.5}% 24
+\BOOKMARK [2][-]{subsection.1.5.6}{Building Blocks of an SOA Infrastructure}{section.1.5}% 25
+\BOOKMARK [2][-]{subsection.1.5.7}{SOA Role in Embedded or Real-Time Systems}{section.1.5}% 26
+\BOOKMARK [2][-]{subsection.1.5.8}{SOA vs. EDA}{section.1.5}% 27
+\BOOKMARK [1][-]{section.1.6}{Summary}{chapter.1}% 28
+\BOOKMARK [1][-]{section.1.7}{Review Questions}{chapter.1}% 29
+\BOOKMARK [1][-]{section.1.8}{Exercises and Labs}{chapter.1}% 30
+\BOOKMARK [0][-]{chapter.2}{SW Architecture and Integration}{}% 31
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 32
+\BOOKMARK [2][-]{subsection.2.1.1}{Enterprise Architecture Dimensions}{section.2.1}% 33
+\BOOKMARK [2][-]{subsection.2.1.2}{Business Architecture}{section.2.1}% 34
+\BOOKMARK [1][-]{section.2.2}{SW Architecture and System Design}{chapter.2}% 35
+\BOOKMARK [1][-]{section.2.3}{Importance of SW Architecture}{chapter.2}% 36
+\BOOKMARK [2][-]{subsection.2.3.1}{Distributed Approach Advantages}{section.2.3}% 37
+\BOOKMARK [1][-]{section.2.4}{Common SW Architecture Patterns}{chapter.2}% 38
+\BOOKMARK [1][-]{section.2.5}{Non-Functional Requirements}{chapter.2}% 39
+\BOOKMARK [2][-]{subsection.2.5.1}{Design Issues of Distributed Systems}{section.2.5}% 40
+\BOOKMARK [2][-]{subsection.2.5.2}{Integration}{section.2.5}% 41
+\BOOKMARK [1][-]{section.2.6}{SW Architectures and Integration Techniques}{chapter.2}% 42
+\BOOKMARK [2][-]{subsection.2.6.1}{Data Based Integration Techniques}{section.2.6}% 43
+\BOOKMARK [2][-]{subsection.2.6.2}{SW Based Integration Techniques}{section.2.6}% 44
+\BOOKMARK [1][-]{section.2.7}{SOA Selected Topics}{chapter.2}% 45
+\BOOKMARK [2][-]{subsection.2.7.1}{Relationship Between EA and SOA}{section.2.7}% 46
+\BOOKMARK [2][-]{subsection.2.7.2}{Services Identification Methods}{section.2.7}% 47
+\BOOKMARK [2][-]{subsection.2.7.3}{CBA}{section.2.7}% 48
+\BOOKMARK [2][-]{subsection.2.7.4}{Agile/OOAD and SOA}{section.2.7}% 49
+\BOOKMARK [1][-]{section.2.8}{Summary}{chapter.2}% 50
+\BOOKMARK [1][-]{section.2.9}{Review Questions}{chapter.2}% 51
+\BOOKMARK [1][-]{section.2.10}{Exercises and Labs}{chapter.2}% 52
+\BOOKMARK [0][-]{chapter.3}{Service Oriented Architecture}{}% 53
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 54
+\BOOKMARK [1][-]{section.3.2}{SOA}{chapter.3}% 55
+\BOOKMARK [2][-]{subsection.3.2.1}{SOA Advantages}{section.3.2}% 56
+\BOOKMARK [1][-]{section.3.3}{SOA Technologies}{chapter.3}% 57
+\BOOKMARK [2][-]{subsection.3.3.1}{Software Agents}{section.3.3}% 58
+\BOOKMARK [2][-]{subsection.3.3.2}{Webservices}{section.3.3}% 59
+\BOOKMARK [1][-]{section.3.4}{Webservices Technology}{chapter.3}% 60
+\BOOKMARK [2][-]{subsection.3.4.1}{Webservices Architecture}{section.3.4}% 61
+\BOOKMARK [2][-]{subsection.3.4.2}{Webservices Key Features}{section.3.4}% 62
+\BOOKMARK [2][-]{subsection.3.4.3}{Webservices Advantages}{section.3.4}% 63
+\BOOKMARK [2][-]{subsection.3.4.4}{Enhanced Standards}{section.3.4}% 64
+\BOOKMARK [2][-]{subsection.3.4.5}{RESTful Webservice}{section.3.4}% 65
+\BOOKMARK [1][-]{section.3.5}{An in-car Information System}{chapter.3}% 66
+\BOOKMARK [1][-]{section.3.6}{Webservices as SOA enabler}{chapter.3}% 67
+\BOOKMARK [1][-]{section.3.7}{Enterprise Service Bus}{chapter.3}% 68
+\BOOKMARK [2][-]{subsection.3.7.1}{ESB}{section.3.7}% 69
+\BOOKMARK [2][-]{subsection.3.7.2}{ESB vs. Integration Technology}{section.3.7}% 70
+\BOOKMARK [2][-]{subsection.3.7.3}{ESB Functionality}{section.3.7}% 71
+\BOOKMARK [2][-]{subsection.3.7.4}{BizTalk Server}{section.3.7}% 72
+\BOOKMARK [1][-]{section.3.8}{SOA Selected Topics}{chapter.3}% 73
+\BOOKMARK [2][-]{subsection.3.8.1}{SOA service vs. Webservice}{section.3.8}% 74
+\BOOKMARK [2][-]{subsection.3.8.2}{SOA vs. DCE and CORBA}{section.3.8}% 75
+\BOOKMARK [2][-]{subsection.3.8.3}{SOA vs. CBA}{section.3.8}% 76
+\BOOKMARK [2][-]{subsection.3.8.4}{WSDL vs. REST}{section.3.8}% 77
+\BOOKMARK [2][-]{subsection.3.8.5}{Fundamental Types of Services}{section.3.8}% 78
+\BOOKMARK [2][-]{subsection.3.8.6}{REST}{section.3.8}% 79
+\BOOKMARK [2][-]{subsection.3.8.7}{Web services vs. REST}{section.3.8}% 80
+\BOOKMARK [1][-]{section.3.9}{Summary}{chapter.3}% 81
+\BOOKMARK [1][-]{section.3.10}{Review Questions}{chapter.3}% 82
+\BOOKMARK [1][-]{section.3.11}{Exercises and Labs}{chapter.3}% 83
+\BOOKMARK [0][-]{chapter.4}{BPM and SOA}{}% 84
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 85
+\BOOKMARK [1][-]{section.4.2}{Business Agility}{chapter.4}% 86
+\BOOKMARK [2][-]{subsection.4.2.1}{Business Agility Principles}{section.4.2}% 87
+\BOOKMARK [2][-]{subsection.4.2.2}{Business Agility Framework}{section.4.2}% 88
+\BOOKMARK [1][-]{section.4.3}{Business Process Agility}{chapter.4}% 89
+\BOOKMARK [2][-]{subsection.4.3.1}{TQM}{section.4.3}% 90
+\BOOKMARK [2][-]{subsection.4.3.2}{BPR}{section.4.3}% 91
+\BOOKMARK [2][-]{subsection.4.3.3}{WfMS and BPR}{section.4.3}% 92
+\BOOKMARK [2][-]{subsection.4.3.4}{BPM}{section.4.3}% 93
+\BOOKMARK [2][-]{subsection.4.3.5}{BPMS}{section.4.3}% 94
+\BOOKMARK [1][-]{section.4.4}{Technical Agility}{chapter.4}% 95
+\BOOKMARK [2][-]{subsection.4.4.1}{SW Agents as SOA implementation}{section.4.4}% 96
+\BOOKMARK [2][-]{subsection.4.4.2}{Webservices as SOA enabler}{section.4.4}% 97
+\BOOKMARK [1][-]{section.4.5}{Utilizing SOA for BPMS}{chapter.4}% 98
+\BOOKMARK [2][-]{subsection.4.5.1}{Business Layer}{section.4.5}% 99
+\BOOKMARK [2][-]{subsection.4.5.2}{Business Services Layer}{section.4.5}% 100
+\BOOKMARK [2][-]{subsection.4.5.3}{Application Services Layer}{section.4.5}% 101
+\BOOKMARK [1][-]{section.4.6}{SOA Selected Topics}{chapter.4}% 102
+\BOOKMARK [2][-]{subsection.4.6.1}{Business Stackholders and SOA}{section.4.6}% 103
+\BOOKMARK [2][-]{subsection.4.6.2}{SOA ROI}{section.4.6}% 104
+\BOOKMARK [2][-]{subsection.4.6.3}{Measuring SOA Effectiveness}{section.4.6}% 105
+\BOOKMARK [2][-]{subsection.4.6.4}{SOA Governance Effectiveness}{section.4.6}% 106
+\BOOKMARK [2][-]{subsection.4.6.5}{Design and Run time SOA Governance}{section.4.6}% 107
+\BOOKMARK [1][-]{section.4.7}{Summary}{chapter.4}% 108
+\BOOKMARK [1][-]{section.4.8}{Review Questions}{chapter.4}% 109
+\BOOKMARK [1][-]{section.4.9}{Exercises and Labs}{chapter.4}% 110
+\BOOKMARK [0][-]{chapter.5}{Integrating UMIS and LMS}{}% 111
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 112
+\BOOKMARK [1][-]{section.5.2}{Learning Models}{chapter.5}% 113
+\BOOKMARK [1][-]{section.5.3}{UMIS}{chapter.5}% 114
+\BOOKMARK [2][-]{subsection.5.3.1}{Student IS}{section.5.3}% 115
+\BOOKMARK [2][-]{subsection.5.3.2}{Library IS}{section.5.3}% 116
+\BOOKMARK [2][-]{subsection.5.3.3}{Faculty IS}{section.5.3}% 117
+\BOOKMARK [2][-]{subsection.5.3.4}{Finance System}{section.5.3}% 118
+\BOOKMARK [2][-]{subsection.5.3.5}{UMIS Role}{section.5.3}% 119
+\BOOKMARK [1][-]{section.5.4}{Prototypical e-Learning}{chapter.5}% 120
+\BOOKMARK [1][-]{section.5.5}{LMS and VLE}{chapter.5}% 121
+\BOOKMARK [2][-]{subsection.5.5.1}{Extended LMS}{section.5.5}% 122
+\BOOKMARK [1][-]{section.5.6}{UMIS OR LMS}{chapter.5}% 123
+\BOOKMARK [1][-]{section.5.7}{IBM Lotus}{chapter.5}% 124
+\BOOKMARK [1][-]{section.5.8}{Evaluation of Current LMSs}{chapter.5}% 125
+\BOOKMARK [2][-]{subsection.5.8.1}{Managerial Evaluation}{section.5.8}% 126
+\BOOKMARK [2][-]{subsection.5.8.2}{Pedagogical Evaluation}{section.5.8}% 127
+\BOOKMARK [2][-]{subsection.5.8.3}{IS Evaluation}{section.5.8}% 128
+\BOOKMARK [1][-]{section.5.9}{Selected Topics}{chapter.5}% 129
+\BOOKMARK [2][-]{subsection.5.9.1}{SOA and Service Modeling}{section.5.9}% 130
+\BOOKMARK [2][-]{subsection.5.9.2}{Applications and Composite Services}{section.5.9}% 131
+\BOOKMARK [2][-]{subsection.5.9.3}{BPM and Applications}{section.5.9}% 132
+\BOOKMARK [1][-]{section.5.10}{Summary}{chapter.5}% 133
+\BOOKMARK [1][-]{section.5.11}{Review Questions}{chapter.5}% 134
+\BOOKMARK [1][-]{section.5.12}{Exercises and Labs}{chapter.5}% 135
+\BOOKMARK [0][-]{chapter.6}{LMS from Monolithic to Services}{}% 136
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 137
+\BOOKMARK [1][-]{section.6.2}{Problem Definition}{chapter.6}% 138
+\BOOKMARK [1][-]{section.6.3}{Proposed Solution}{chapter.6}% 139
+\BOOKMARK [1][-]{section.6.4}{Adaptive e-Learning Systems}{chapter.6}% 140
+\BOOKMARK [2][-]{subsection.6.4.1}{Adaptive e-Learning Approaches}{section.6.4}% 141
+\BOOKMARK [2][-]{subsection.6.4.2}{AEHS Overview}{section.6.4}% 142
+\BOOKMARK [2][-]{subsection.6.4.3}{Adaptive e-Learning Applications' Examples}{section.6.4}% 143
+\BOOKMARK [1][-]{section.6.5}{Intelligent e-Learning Systems}{chapter.6}% 144
+\BOOKMARK [2][-]{subsection.6.5.1}{Evolution of AI in e-Learning}{section.6.5}% 145
+\BOOKMARK [2][-]{subsection.6.5.2}{AI Methods and Techniques}{section.6.5}% 146
+\BOOKMARK [1][-]{section.6.6}{SOA in e-Learning Systems}{chapter.6}% 147
+\BOOKMARK [2][-]{subsection.6.6.1}{Webservices as SOA enabler}{section.6.6}% 148
+\BOOKMARK [2][-]{subsection.6.6.2}{SOA and e-Learning Systems}{section.6.6}% 149
+\BOOKMARK [1][-]{section.6.7}{Summary}{chapter.6}% 150
+\BOOKMARK [1][-]{section.6.8}{Selected Topics}{chapter.6}% 151
+\BOOKMARK [2][-]{subsection.6.8.1}{Deploying Services in the Cloud}{section.6.8}% 152
+\BOOKMARK [2][-]{subsection.6.8.2}{Cloud Computing as SOA Infrastructure}{section.6.8}% 153
+\BOOKMARK [1][-]{section.6.9}{Review Questions}{chapter.6}% 154
+\BOOKMARK [1][-]{section.6.10}{Exercises and Labs}{chapter.6}% 155
+\BOOKMARK [0][-]{chapter.7}{Course Management Systems}{}% 156
+\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 157
+\BOOKMARK [1][-]{section.7.2}{CMS Analysis}{chapter.7}% 158
+\BOOKMARK [1][-]{section.7.3}{Proposed CMS Architecture}{chapter.7}% 159
+\BOOKMARK [2][-]{subsection.7.3.1}{Presentation Layer}{section.7.3}% 160
+\BOOKMARK [2][-]{subsection.7.3.2}{Service Layer}{section.7.3}% 161
+\BOOKMARK [1][-]{section.7.4}{Processes Analysis}{chapter.7}% 162
+\BOOKMARK [2][-]{subsection.7.4.1}{Search Process Analysis}{section.7.4}% 163
+\BOOKMARK [2][-]{subsection.7.4.2}{Manage Rules Process Analysis}{section.7.4}% 164
+\BOOKMARK [1][-]{section.7.5}{SW Agents Analysis}{chapter.7}% 165
+\BOOKMARK [2][-]{subsection.7.5.1}{Discoverer Agent Analysis}{section.7.5}% 166
+\BOOKMARK [2][-]{subsection.7.5.2}{Ranker Agent Analysis}{section.7.5}% 167
+\BOOKMARK [2][-]{subsection.7.5.3}{Tracker Agent Analysis}{section.7.5}% 168
+\BOOKMARK [2][-]{subsection.7.5.4}{Analyzer Agent Analysis}{section.7.5}% 169
+\BOOKMARK [1][-]{section.7.6}{Design of CMS}{chapter.7}% 170
+\BOOKMARK [2][-]{subsection.7.6.1}{Search Process Design}{section.7.6}% 171
+\BOOKMARK [2][-]{subsection.7.6.2}{Manage Rules Process Design}{section.7.6}% 172
+\BOOKMARK [2][-]{subsection.7.6.3}{Software Agents Design}{section.7.6}% 173
+\BOOKMARK [1][-]{section.7.7}{Summary}{chapter.7}% 174
+\BOOKMARK [1][-]{section.7.8}{Review Questions}{chapter.7}% 175
+\BOOKMARK [1][-]{section.7.9}{Exercises and Labs}{chapter.7}% 176
+\BOOKMARK [0][-]{chapter.8}{Mobile Devices in LMS}{}% 177
+\BOOKMARK [1][-]{section.8.1}{Introduction}{chapter.8}% 178
+\BOOKMARK [1][-]{section.8.2}{AMS Analysis}{chapter.8}% 179
+\BOOKMARK [2][-]{subsection.8.2.1}{Proposed AMS Architecture}{section.8.2}% 180
+\BOOKMARK [2][-]{subsection.8.2.2}{Take Assessment Process Analysis}{section.8.2}% 181
+\BOOKMARK [2][-]{subsection.8.2.3}{Tracker Agent}{section.8.2}% 182
+\BOOKMARK [1][-]{section.8.3}{AMS Design}{chapter.8}% 183
+\BOOKMARK [2][-]{subsection.8.3.1}{Take Mobile Assessment Process Design}{section.8.3}% 184
+\BOOKMARK [2][-]{subsection.8.3.2}{Tracker Agent }{section.8.3}% 185
+\BOOKMARK [2][-]{subsection.8.3.3}{AMS Classes}{section.8.3}% 186
+\BOOKMARK [2][-]{subsection.8.3.4}{Mobile Simulator Interface Design}{section.8.3}% 187
+\BOOKMARK [1][-]{section.8.4}{Learner interaction with LMS}{chapter.8}% 188
+\BOOKMARK [1][-]{section.8.5}{Summary}{chapter.8}% 189
+\BOOKMARK [1][-]{section.8.6}{Review Questions}{chapter.8}% 190
+\BOOKMARK [1][-]{section.8.7}{Exercises and Labs}{chapter.8}% 191
+\BOOKMARK [0][-]{chapter.9}{Web 2.0 in LMS}{}% 192
+\BOOKMARK [1][-]{section.9.1}{Introduction}{chapter.9}% 193
+\BOOKMARK [1][-]{section.9.2}{Web 2.0 Technologies}{chapter.9}% 194
+\BOOKMARK [1][-]{section.9.3}{e-Learning 2.0 via Web 2.0}{chapter.9}% 195
+\BOOKMARK [1][-]{section.9.4}{Web 2.0 in Learning Institutions}{chapter.9}% 196
+\BOOKMARK [1][-]{section.9.5}{Examples of Web 2.0 in Learning}{chapter.9}% 197
+\BOOKMARK [2][-]{subsection.9.5.1}{Summary and Comparison}{section.9.5}% 198
+\BOOKMARK [1][-]{section.9.6}{Web 2.0 for Learning Institutions}{chapter.9}% 199
+\BOOKMARK [1][-]{section.9.7}{In-Lecture Web 2.0}{chapter.9}% 200
+\BOOKMARK [2][-]{subsection.9.7.1}{Web Application}{section.9.7}% 201
+\BOOKMARK [2][-]{subsection.9.7.2}{Real-Time Web}{section.9.7}% 202
+\BOOKMARK [2][-]{subsection.9.7.3}{Mobile Applications}{section.9.7}% 203
+\BOOKMARK [1][-]{section.9.8}{After Lecture Web 2.0}{chapter.9}% 204
+\BOOKMARK [2][-]{subsection.9.8.1}{Collaboration Tools}{section.9.8}% 205
+\BOOKMARK [2][-]{subsection.9.8.2}{Social Networks}{section.9.8}% 206
+\BOOKMARK [1][-]{section.9.9}{Future of Attended Classes}{chapter.9}% 207
+\BOOKMARK [1][-]{section.9.10}{Future Research Directions}{chapter.9}% 208
+\BOOKMARK [1][-]{section.9.11}{SOA Selected Topics}{chapter.9}% 209
+\BOOKMARK [2][-]{subsection.9.11.1}{WOA and Web 2.0 Effect on SOA}{section.9.11}% 210
+\BOOKMARK [1][-]{section.9.12}{Summary}{chapter.9}% 211
+\BOOKMARK [1][-]{section.9.13}{Review Questions}{chapter.9}% 212
+\BOOKMARK [1][-]{section.9.14}{Exercises and Labs}{chapter.9}% 213
+\BOOKMARK [0][-]{chapter.10}{Evaluation of SOA in e-Learning}{}% 214
+\BOOKMARK [1][-]{section.10.1}{Introduction}{chapter.10}% 215
+\BOOKMARK [1][-]{section.10.2}{Current Situation and Solution}{chapter.10}% 216
+\BOOKMARK [2][-]{subsection.10.2.1}{Current IT Infrastructure}{section.10.2}% 217
+\BOOKMARK [2][-]{subsection.10.2.2}{Proposed IT Modifications}{section.10.2}% 218
+\BOOKMARK [1][-]{section.10.3}{Evaluation of Solution}{chapter.10}% 219
+\BOOKMARK [2][-]{subsection.10.3.1}{IS Evaluation}{section.10.3}% 220
+\BOOKMARK [2][-]{subsection.10.3.2}{Pedagogical Evaluation}{section.10.3}% 221
+\BOOKMARK [1][-]{section.10.4}{SOA Selected Topics}{chapter.10}% 222
+\BOOKMARK [2][-]{subsection.10.4.1}{SOA Governance}{section.10.4}% 223
+\BOOKMARK [2][-]{subsection.10.4.2}{Need of SOA Governance}{section.10.4}% 224
+\BOOKMARK [2][-]{subsection.10.4.3}{Proper Service Granularity}{section.10.4}% 225
+\BOOKMARK [1][-]{section.10.5}{Summary}{chapter.10}% 226
+\BOOKMARK [1][-]{section.10.6}{Review Questions}{chapter.10}% 227
+\BOOKMARK [1][-]{section.10.7}{Exercises and Labs}{chapter.10}% 228
+\BOOKMARK [0][-]{chapter.11}{Mobile Information Agents}{}% 229
+\BOOKMARK [1][-]{section.11.1}{Introduction}{chapter.11}% 230
+\BOOKMARK [2][-]{subsection.11.1.1}{Importance of Mobile Information Agents}{section.11.1}% 231
+\BOOKMARK [2][-]{subsection.11.1.2}{Mobile Information Agents in Distributed Systems}{section.11.1}% 232
+\BOOKMARK [2][-]{subsection.11.1.3}{Problem Definition}{section.11.1}% 233
+\BOOKMARK [1][-]{section.11.2}{Mobile News Agent System}{chapter.11}% 234
+\BOOKMARK [2][-]{subsection.11.2.1}{Development Framework}{section.11.2}% 235
+\BOOKMARK [2][-]{subsection.11.2.2}{MNAS Components}{section.11.2}% 236
+\BOOKMARK [2][-]{subsection.11.2.3}{Advantages and Disadvantages of MNAS}{section.11.2}% 237
+\BOOKMARK [2][-]{subsection.11.2.4}{Technologies Used in MNAS}{section.11.2}% 238
+\BOOKMARK [1][-]{section.11.3}{Analysis and Design of MNAS}{chapter.11}% 239
+\BOOKMARK [1][-]{section.11.4}{MNAS Methods}{chapter.11}% 240
+\BOOKMARK [2][-]{subsection.11.4.1}{Methods performed by Mobile News Agent}{section.11.4}% 241
+\BOOKMARK [2][-]{subsection.11.4.2}{Methods performed by Hosts}{section.11.4}% 242
+\BOOKMARK [1][-]{section.11.5}{Implementation Approaches of MNAS}{chapter.11}% 243
+\BOOKMARK [2][-]{subsection.11.5.1}{Approach 1 'Single Processing \205 Holding Data'}{section.11.5}% 244
+\BOOKMARK [2][-]{subsection.11.5.2}{Approach 2 'Single Processing \205 Delivering Data'}{section.11.5}% 245
+\BOOKMARK [2][-]{subsection.11.5.3}{Approach 3 'Distributed Processing'}{section.11.5}% 246
+\BOOKMARK [1][-]{section.11.6}{Performance Measurements}{chapter.11}% 247
+\BOOKMARK [1][-]{section.11.7}{Comments on Results}{chapter.11}% 248
+\BOOKMARK [1][-]{section.11.8}{SOA Selected Topics}{chapter.11}% 249
+\BOOKMARK [2][-]{subsection.11.8.1}{Information Services}{section.11.8}% 250
+\BOOKMARK [2][-]{subsection.11.8.2}{Information Services Classification}{section.11.8}% 251
+\BOOKMARK [1][-]{section.11.9}{Summary}{chapter.11}% 252
+\BOOKMARK [1][-]{section.11.10}{Review Questions}{chapter.11}% 253
+\BOOKMARK [1][-]{section.11.11}{Exercises and Labs}{chapter.11}% 254
+\BOOKMARK [0][-]{chapter.12}{Mobiles in Community Services}{}% 255
+\BOOKMARK [1][-]{section.12.1}{Introduction}{chapter.12}% 256
+\BOOKMARK [2][-]{subsection.12.1.1}{Need for The Project}{section.12.1}% 257
+\BOOKMARK [2][-]{subsection.12.1.2}{Scope}{section.12.1}% 258
+\BOOKMARK [2][-]{subsection.12.1.3}{Aim}{section.12.1}% 259
+\BOOKMARK [2][-]{subsection.12.1.4}{Objectives}{section.12.1}% 260
+\BOOKMARK [2][-]{subsection.12.1.5}{Integrating Web and Mobile}{section.12.1}% 261
+\BOOKMARK [1][-]{section.12.2}{Mobile Components}{chapter.12}% 262
+\BOOKMARK [2][-]{subsection.12.2.1}{User Requirements}{section.12.2}% 263
+\BOOKMARK [2][-]{subsection.12.2.2}{User Interaction with Sanay3y}{section.12.2}% 264
+\BOOKMARK [1][-]{section.12.3}{Interface Design}{chapter.12}% 265
+\BOOKMARK [1][-]{section.12.4}{Integrating Web and Mobile}{chapter.12}% 266
+\BOOKMARK [2][-]{subsection.12.4.1}{Integration}{section.12.4}% 267
+\BOOKMARK [2][-]{subsection.12.4.2}{Sanay3y Application Architecture}{section.12.4}% 268
+\BOOKMARK [1][-]{section.12.5}{Summary}{chapter.12}% 269
+\BOOKMARK [0][-]{appendix.A}{Resources}{}% 270
+\BOOKMARK [1][-]{section.A.1}{Book Resources}{appendix.A}% 271
+\BOOKMARK [1][-]{section.A.2}{Learning Management Systems}{appendix.A}% 272
+\BOOKMARK [0][-]{appendix.B}{Acronyms and Glossary}{}% 273
+\BOOKMARK [1][-]{section*.110}{Acronyms}{appendix.B}% 274
+\BOOKMARK [1][-]{section*.112}{Glossary}{appendix.B}% 275
+\BOOKMARK [0][-]{appendix*.114}{Bibliography}{}% 276

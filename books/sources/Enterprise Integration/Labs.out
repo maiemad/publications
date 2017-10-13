@@ -1,0 +1,42 @@
+\BOOKMARK [0][-]{chapter.1}{C\043 and Webservices}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Quick Tour of C\043}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Introduction}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Namespaces}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.3}{Classes}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.4}{Attributes}{section.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.5}{Interfaces}{section.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.1.6}{Enums}{section.1.1}% 8
+\BOOKMARK [2][-]{subsection.1.1.7}{Struct}{section.1.1}% 9
+\BOOKMARK [2][-]{subsection.1.1.8}{Methods}{section.1.1}% 10
+\BOOKMARK [2][-]{subsection.1.1.9}{Method overloading}{section.1.1}% 11
+\BOOKMARK [2][-]{subsection.1.1.10}{Loops}{section.1.1}% 12
+\BOOKMARK [2][-]{subsection.1.1.11}{if}{section.1.1}% 13
+\BOOKMARK [2][-]{subsection.1.1.12}{switch}{section.1.1}% 14
+\BOOKMARK [2][-]{subsection.1.1.13}{try/catch/finally and throw}{section.1.1}% 15
+\BOOKMARK [2][-]{subsection.1.1.14}{null}{section.1.1}% 16
+\BOOKMARK [2][-]{subsection.1.1.15}{Excercises}{section.1.1}% 17
+\BOOKMARK [0][-]{chapter.2}{Python and Webservices}{}% 18
+\BOOKMARK [1][-]{section.2.1}{Python Crash Course}{chapter.2}% 19
+\BOOKMARK [2][-]{subsection.2.1.1}{Introduction}{section.2.1}% 20
+\BOOKMARK [2][-]{subsection.2.1.2}{Compilers vs. Interpreters}{section.2.1}% 21
+\BOOKMARK [2][-]{subsection.2.1.3}{Python Magic}{section.2.1}% 22
+\BOOKMARK [2][-]{subsection.2.1.4}{Temprature Converter}{section.2.1}% 23
+\BOOKMARK [2][-]{subsection.2.1.5}{Elements of Programs}{section.2.1}% 24
+\BOOKMARK [2][-]{subsection.2.1.6}{Numeric Data Types}{section.2.1}% 25
+\BOOKMARK [2][-]{subsection.2.1.7}{Using the Math Library}{section.2.1}% 26
+\BOOKMARK [2][-]{subsection.2.1.8}{Accumulating Results: Factorial}{section.2.1}% 27
+\BOOKMARK [2][-]{subsection.2.1.9}{The Limits of Int}{section.2.1}% 28
+\BOOKMARK [2][-]{subsection.2.1.10}{Type Conversions}{section.2.1}% 29
+\BOOKMARK [2][-]{subsection.2.1.11}{Object Oriented Programming}{section.2.1}% 30
+\BOOKMARK [2][-]{subsection.2.1.12}{Interactive Graphics}{section.2.1}% 31
+\BOOKMARK [2][-]{subsection.2.1.13}{The String Data Type}{section.2.1}% 32
+\BOOKMARK [2][-]{subsection.2.1.14}{Sequences}{section.2.1}% 33
+\BOOKMARK [2][-]{subsection.2.1.15}{Lists}{section.2.1}% 34
+\BOOKMARK [0][-]{chapter.3}{JAVA and Webservices}{}% 35
+\BOOKMARK [1][-]{section.3.1}{JAVA Review}{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.2}{JAVA and Netbeans}{chapter.3}% 37
+\BOOKMARK [1][-]{section.3.3}{Webservices using JAVA and Netbeans}{chapter.3}% 38
+\BOOKMARK [2][-]{subsection.3.3.1}{RESTful Web Services}{section.3.3}% 39
+\BOOKMARK [2][-]{subsection.3.3.2}{SOAP-based Web Services}{section.3.3}% 40
+\BOOKMARK [1][-]{section.3.4}{JAVA Questions}{chapter.3}% 41
+\BOOKMARK [1][-]{section.3.5}{Answers to JAVA Questions}{chapter.3}% 42

@@ -1,0 +1,372 @@
+\select@language {english}
+\contentsline {chapter}{Acknowledgment}{v}{chapter*.2}
+\contentsline {chapter}{Preface}{xxi}{chapter*.14}
+\contentsline {chapter}{\numberline {1}EIS and EA}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introduction}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Management Support System}{1}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Enterprise Information System}{6}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Group Support Systems}{6}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Knowledge Management System}{6}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Expert Systems}{6}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Hybrid Support Systems}{7}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.6}Emerging Technologies}{7}{subsection.1.2.6}
+\contentsline {section}{\numberline {1.3}Enterprise Architecture}{7}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}TOGAF}{8}{subsection.1.3.1}
+\contentsline {subsubsection}{TOGAF}{8}{section*.15}
+\contentsline {subsection}{\numberline {1.3.2}ArchiMate}{9}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Zachman Framework}{9}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}Zachman Framework: Detailed View}{9}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Focus of Columns}{11}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Models of Cells}{11}{subsection.1.4.2}
+\contentsline {subsubsection}{Contextual}{11}{section*.16}
+\contentsline {subsubsection}{Conceptual}{12}{section*.17}
+\contentsline {subsubsection}{Logical}{12}{section*.18}
+\contentsline {subsubsection}{Physical}{13}{section*.19}
+\contentsline {subsubsection}{Detailed Representation}{13}{section*.20}
+\contentsline {section}{\numberline {1.5}SOA Selected Topics}{13}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}SOA Definition}{13}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}SOA is an Architectural Style}{14}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Fundamental Constructs of SOA}{14}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Service Attributes}{16}{subsection.1.5.4}
+\contentsline {subsection}{\numberline {1.5.5}EAI vs. SOA vs. SOI}{18}{subsection.1.5.5}
+\contentsline {subsection}{\numberline {1.5.6}Building Blocks of an SOA Infrastructure}{18}{subsection.1.5.6}
+\contentsline {subsection}{\numberline {1.5.7}SOA Role in Embedded or Real-Time Systems}{19}{subsection.1.5.7}
+\contentsline {subsection}{\numberline {1.5.8}SOA vs. EDA}{20}{subsection.1.5.8}
+\contentsline {section}{\numberline {1.6}Summary}{20}{section.1.6}
+\contentsline {section}{\numberline {1.7}Review Questions}{20}{section.1.7}
+\contentsline {section}{\numberline {1.8}Exercises and Labs}{21}{section.1.8}
+\contentsline {chapter}{\numberline {2}SW Architecture and Integration}{23}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{23}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Enterprise Architecture Dimensions}{23}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Business Architecture}{23}{subsection.2.1.2}
+\contentsline {subsubsection}{IT Architecture}{23}{section*.21}
+\contentsline {subsubsection}{Information Architecture}{24}{section*.22}
+\contentsline {subsubsection}{Software Architecture}{24}{section*.23}
+\contentsline {section}{\numberline {2.2}SW Architecture and System Design}{25}{section.2.2}
+\contentsline {section}{\numberline {2.3}Importance of SW Architecture}{26}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Distributed Approach Advantages}{28}{subsection.2.3.1}
+\contentsline {section}{\numberline {2.4}Common SW Architecture Patterns}{28}{section.2.4}
+\contentsline {section}{\numberline {2.5}Non-Functional Requirements}{30}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Design Issues of Distributed Systems}{30}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Integration}{30}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}SW Architectures and Integration Techniques}{31}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Data Based Integration Techniques}{32}{subsection.2.6.1}
+\contentsline {subsubsection}{Adopting Standard Data Element Definition}{33}{section*.24}
+\contentsline {subsubsection}{Adopting DB and DW}{35}{section*.25}
+\contentsline {paragraph}{Repository Software Architecture}{35}{section*.26}
+\contentsline {subsection}{\numberline {2.6.2}SW Based Integration Techniques}{36}{subsection.2.6.2}
+\contentsline {subsubsection}{Standard Enterprise Wide Software}{36}{section*.27}
+\contentsline {subsubsection}{Middleware Integration Technique}{46}{section*.28}
+\contentsline {section}{\numberline {2.7}SOA Selected Topics}{52}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Relationship Between EA and SOA}{52}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Services Identification Methods}{54}{subsection.2.7.2}
+\contentsline {subsection}{\numberline {2.7.3}CBA}{54}{subsection.2.7.3}
+\contentsline {subsection}{\numberline {2.7.4}Agile/OOAD and SOA}{55}{subsection.2.7.4}
+\contentsline {section}{\numberline {2.8}Summary}{55}{section.2.8}
+\contentsline {section}{\numberline {2.9}Review Questions}{56}{section.2.9}
+\contentsline {section}{\numberline {2.10}Exercises and Labs}{56}{section.2.10}
+\contentsline {chapter}{\numberline {3}Service Oriented Architecture}{57}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{57}{section.3.1}
+\contentsline {section}{\numberline {3.2}SOA}{57}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}SOA Advantages}{57}{subsection.3.2.1}
+\contentsline {subsubsection}{Implementation Benefits}{58}{section*.29}
+\contentsline {subsubsection}{Organizational / Business Benefits}{58}{section*.30}
+\contentsline {section}{\numberline {3.3}SOA Technologies}{58}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Software Agents}{59}{subsection.3.3.1}
+\contentsline {subsubsection}{Multi-Agent System}{59}{section*.31}
+\contentsline {subsubsection}{Common MAS Architectures}{60}{section*.32}
+\contentsline {subsection}{\numberline {3.3.2}Webservices}{63}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Webservices Technology}{63}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Webservices Architecture}{63}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Webservices Key Features}{65}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Webservices Advantages}{65}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Enhanced Standards}{66}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}RESTful Webservice}{67}{subsection.3.4.5}
+\contentsline {section}{\numberline {3.5}An in-car Information System}{68}{section.3.5}
+\contentsline {section}{\numberline {3.6}Webservices as SOA enabler}{68}{section.3.6}
+\contentsline {section}{\numberline {3.7}Enterprise Service Bus}{70}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}ESB}{70}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}ESB vs. Integration Technology}{71}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}ESB Functionality}{71}{subsection.3.7.3}
+\contentsline {subsection}{\numberline {3.7.4}BizTalk Server}{72}{subsection.3.7.4}
+\contentsline {section}{\numberline {3.8}SOA Selected Topics}{73}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}SOA service vs. Webservice}{73}{subsection.3.8.1}
+\contentsline {subsection}{\numberline {3.8.2}SOA vs. DCE and CORBA}{74}{subsection.3.8.2}
+\contentsline {subsection}{\numberline {3.8.3}SOA vs. CBA}{74}{subsection.3.8.3}
+\contentsline {subsection}{\numberline {3.8.4}WSDL vs. REST}{75}{subsection.3.8.4}
+\contentsline {subsection}{\numberline {3.8.5}Fundamental Types of Services}{76}{subsection.3.8.5}
+\contentsline {subsection}{\numberline {3.8.6}REST}{76}{subsection.3.8.6}
+\contentsline {subsection}{\numberline {3.8.7}Web services vs. REST}{77}{subsection.3.8.7}
+\contentsline {section}{\numberline {3.9}Summary}{77}{section.3.9}
+\contentsline {section}{\numberline {3.10}Review Questions}{77}{section.3.10}
+\contentsline {section}{\numberline {3.11}Exercises and Labs}{78}{section.3.11}
+\contentsline {chapter}{\numberline {4}BPM and SOA}{79}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{79}{section.4.1}
+\contentsline {section}{\numberline {4.2}Business Agility}{80}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Business Agility Principles}{80}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Business Agility Framework}{81}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Business Process Agility}{82}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}TQM}{82}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}BPR}{82}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}WfMS and BPR}{82}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}BPM}{83}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}BPMS}{83}{subsection.4.3.5}
+\contentsline {subsubsection}{BPMS Key Features}{83}{section*.33}
+\contentsline {section}{\numberline {4.4}Technical Agility}{84}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}SW Agents as SOA implementation}{84}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Webservices as SOA enabler}{86}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Utilizing SOA for BPMS}{87}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Business Layer}{87}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Business Services Layer}{89}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Application Services Layer}{90}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}SOA Selected Topics}{91}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Business Stackholders and SOA}{91}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}SOA ROI}{92}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Measuring SOA Effectiveness}{92}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}SOA Governance Effectiveness}{93}{subsection.4.6.4}
+\contentsline {subsection}{\numberline {4.6.5}Design and Run time SOA Governance}{93}{subsection.4.6.5}
+\contentsline {section}{\numberline {4.7}Summary}{94}{section.4.7}
+\contentsline {section}{\numberline {4.8}Review Questions}{94}{section.4.8}
+\contentsline {section}{\numberline {4.9}Exercises and Labs}{95}{section.4.9}
+\contentsline {chapter}{\numberline {5}Integrating UMIS and LMS}{97}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{97}{section.5.1}
+\contentsline {section}{\numberline {5.2}Learning Models}{98}{section.5.2}
+\contentsline {section}{\numberline {5.3}UMIS}{99}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Student IS}{99}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Library IS}{100}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Faculty IS}{100}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Finance System}{100}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}UMIS Role}{101}{subsection.5.3.5}
+\contentsline {section}{\numberline {5.4}Prototypical e-Learning}{101}{section.5.4}
+\contentsline {section}{\numberline {5.5}LMS and VLE}{103}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Extended LMS}{105}{subsection.5.5.1}
+\contentsline {subsubsection}{Online conferencing}{105}{section*.34}
+\contentsline {subsubsection}{Virtual Classroom}{105}{section*.35}
+\contentsline {subsubsection}{Digital Library}{106}{section*.36}
+\contentsline {section}{\numberline {5.6}UMIS OR LMS}{106}{section.5.6}
+\contentsline {section}{\numberline {5.7}IBM Lotus}{107}{section.5.7}
+\contentsline {section}{\numberline {5.8}Evaluation of Current LMSs}{107}{section.5.8}
+\contentsline {subsection}{\numberline {5.8.1}Managerial Evaluation}{109}{subsection.5.8.1}
+\contentsline {subsection}{\numberline {5.8.2}Pedagogical Evaluation}{109}{subsection.5.8.2}
+\contentsline {subsection}{\numberline {5.8.3}IS Evaluation}{110}{subsection.5.8.3}
+\contentsline {subsubsection}{Integration}{110}{section*.37}
+\contentsline {subsubsection}{Agility}{112}{section*.38}
+\contentsline {subsubsection}{Scalability}{112}{section*.39}
+\contentsline {subsubsection}{Extensibility}{112}{section*.40}
+\contentsline {subsubsection}{Flexibility}{113}{section*.41}
+\contentsline {subsubsection}{Interoperability}{113}{section*.42}
+\contentsline {subsubsection}{Redundancy}{113}{section*.43}
+\contentsline {paragraph}{Data Redundancy}{113}{section*.44}
+\contentsline {paragraph}{Functionality Redundancy}{113}{section*.45}
+\contentsline {section}{\numberline {5.9}Selected Topics}{113}{section.5.9}
+\contentsline {subsection}{\numberline {5.9.1}SOA and Service Modeling}{113}{subsection.5.9.1}
+\contentsline {subsection}{\numberline {5.9.2}Applications and Composite Services}{114}{subsection.5.9.2}
+\contentsline {subsection}{\numberline {5.9.3}BPM and Applications}{114}{subsection.5.9.3}
+\contentsline {section}{\numberline {5.10}Summary}{115}{section.5.10}
+\contentsline {section}{\numberline {5.11}Review Questions}{115}{section.5.11}
+\contentsline {section}{\numberline {5.12}Exercises and Labs}{115}{section.5.12}
+\contentsline {chapter}{\numberline {6}LMS from Monolithic to Services}{117}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{117}{section.6.1}
+\contentsline {section}{\numberline {6.2}Problem Definition}{118}{section.6.2}
+\contentsline {section}{\numberline {6.3}Proposed Solution}{120}{section.6.3}
+\contentsline {section}{\numberline {6.4}Adaptive e-Learning Systems}{120}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Adaptive e-Learning Approaches}{121}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}AEHS Overview}{122}{subsection.6.4.2}
+\contentsline {subsubsection}{Application Areas of AEHS}{123}{section*.46}
+\contentsline {subsubsection}{Modeling the User}{123}{section*.47}
+\contentsline {subsubsection}{Adaptation Taxonomy}{124}{section*.48}
+\contentsline {subsubsection}{Adaptive Presentation}{124}{section*.49}
+\contentsline {subsubsection}{Adaptive Navigation Support}{126}{section*.50}
+\contentsline {subsubsection}{AIEHS Overview}{127}{section*.51}
+\contentsline {subsection}{\numberline {6.4.3}Adaptive e-Learning Applications' Examples}{128}{subsection.6.4.3}
+\contentsline {section}{\numberline {6.5}Intelligent e-Learning Systems}{128}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Evolution of AI in e-Learning}{129}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}AI Methods and Techniques}{129}{subsection.6.5.2}
+\contentsline {subsubsection}{Neural Networks}{129}{section*.52}
+\contentsline {subsubsection}{Genetic Algorithms}{129}{section*.53}
+\contentsline {subsubsection}{Fuzzy Logic}{130}{section*.54}
+\contentsline {subsubsection}{SW Agents as AI Implementation}{130}{section*.55}
+\contentsline {subsubsection}{SW Agents Characteristics}{131}{section*.56}
+\contentsline {subsubsection}{Intelligent SW Agents}{132}{section*.57}
+\contentsline {subsubsection}{SW Agents Challenges}{132}{section*.58}
+\contentsline {subsubsection}{SW Agents based e-Learning Systems}{133}{section*.59}
+\contentsline {subsubsection}{ITS}{133}{section*.60}
+\contentsline {subsubsection}{ITS Modules}{134}{section*.61}
+\contentsline {subsubsection}{ITS Limitations and Challenges}{134}{section*.62}
+\contentsline {subsubsection}{Examples of ITSs}{135}{section*.63}
+\contentsline {section}{\numberline {6.6}SOA in e-Learning Systems}{136}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}Webservices as SOA enabler}{136}{subsection.6.6.1}
+\contentsline {subsection}{\numberline {6.6.2}SOA and e-Learning Systems}{137}{subsection.6.6.2}
+\contentsline {subsubsection}{\gls {moodle} and Webservices}{137}{section*.64}
+\contentsline {subsubsection}{Services based e-Learning Systems and Reusability}{137}{section*.65}
+\contentsline {subsubsection}{Services based e-Learning Systems and Scalability}{139}{section*.66}
+\contentsline {subsubsection}{Services based e-Learning Systems and Integration}{140}{section*.67}
+\contentsline {subsubsection}{Services based e-Learning Systems and Interoperability}{141}{section*.68}
+\contentsline {subsubsection}{Services based e-Learning Systems and XML}{143}{section*.69}
+\contentsline {subsubsection}{Comments on Services based e-Learning Systems}{144}{section*.70}
+\contentsline {section}{\numberline {6.7}Summary}{144}{section.6.7}
+\contentsline {section}{\numberline {6.8}Selected Topics}{145}{section.6.8}
+\contentsline {subsection}{\numberline {6.8.1}Deploying Services in the Cloud}{145}{subsection.6.8.1}
+\contentsline {subsection}{\numberline {6.8.2}Cloud Computing as SOA Infrastructure}{145}{subsection.6.8.2}
+\contentsline {section}{\numberline {6.9}Review Questions}{146}{section.6.9}
+\contentsline {section}{\numberline {6.10}Exercises and Labs}{146}{section.6.10}
+\contentsline {chapter}{\numberline {7}Course Management Systems}{147}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{147}{section.7.1}
+\contentsline {section}{\numberline {7.2}CMS Analysis}{147}{section.7.2}
+\contentsline {section}{\numberline {7.3}Proposed CMS Architecture}{148}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Presentation Layer}{148}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Service Layer}{148}{subsection.7.3.2}
+\contentsline {section}{\numberline {7.4}Processes Analysis}{150}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Search Process Analysis}{150}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}Manage Rules Process Analysis}{150}{subsection.7.4.2}
+\contentsline {section}{\numberline {7.5}SW Agents Analysis}{150}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Discoverer Agent Analysis}{150}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}Ranker Agent Analysis}{153}{subsection.7.5.2}
+\contentsline {subsection}{\numberline {7.5.3}Tracker Agent Analysis}{155}{subsection.7.5.3}
+\contentsline {subsection}{\numberline {7.5.4}Analyzer Agent Analysis}{155}{subsection.7.5.4}
+\contentsline {section}{\numberline {7.6}Design of CMS}{155}{section.7.6}
+\contentsline {subsection}{\numberline {7.6.1}Search Process Design}{155}{subsection.7.6.1}
+\contentsline {subsubsection}{Discover/Recommend Service}{155}{section*.71}
+\contentsline {subsubsection}{Display Service}{155}{section*.72}
+\contentsline {subsubsection}{Check Capability Service}{157}{section*.73}
+\contentsline {subsubsection}{Import Service}{157}{section*.74}
+\contentsline {subsubsection}{Manage Courses Service}{157}{section*.75}
+\contentsline {subsubsection}{Pay Service}{160}{section*.76}
+\contentsline {subsubsection}{Raise Exception Search Process Service}{161}{section*.77}
+\contentsline {subsection}{\numberline {7.6.2}Manage Rules Process Design}{161}{subsection.7.6.2}
+\contentsline {subsubsection}{Manage Rules Service}{163}{section*.78}
+\contentsline {subsubsection}{Raise Exception Manage Rules Service}{163}{section*.79}
+\contentsline {subsection}{\numberline {7.6.3}Software Agents Design}{163}{subsection.7.6.3}
+\contentsline {subsubsection}{Tracker Agent}{163}{section*.80}
+\contentsline {subsubsection}{Ranker Agent}{164}{section*.81}
+\contentsline {section}{\numberline {7.7}Summary}{164}{section.7.7}
+\contentsline {section}{\numberline {7.8}Review Questions}{165}{section.7.8}
+\contentsline {section}{\numberline {7.9}Exercises and Labs}{165}{section.7.9}
+\contentsline {chapter}{\numberline {8}Mobile Devices in LMS}{167}{chapter.8}
+\contentsline {section}{\numberline {8.1}Introduction}{167}{section.8.1}
+\contentsline {section}{\numberline {8.2}AMS Analysis}{167}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Proposed AMS Architecture}{168}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Take Assessment Process Analysis}{169}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Tracker Agent}{172}{subsection.8.2.3}
+\contentsline {section}{\numberline {8.3}AMS Design}{172}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Take Mobile Assessment Process Design}{172}{subsection.8.3.1}
+\contentsline {subsubsection}{Manage SMS Service Design}{172}{section*.82}
+\contentsline {subsubsection}{Manage Learner Service Design}{172}{section*.83}
+\contentsline {subsubsection}{Manage Assessments Service Design }{175}{section*.84}
+\contentsline {subsubsection}{Manage Assessment Items Service Design}{176}{section*.85}
+\contentsline {subsubsection}{Session Manager Service Design}{177}{section*.86}
+\contentsline {subsubsection}{Manage Session Service Design }{177}{section*.87}
+\contentsline {subsubsection}{Manage Exception }{177}{section*.88}
+\contentsline {subsection}{\numberline {8.3.2}Tracker Agent }{179}{subsection.8.3.2}
+\contentsline {subsection}{\numberline {8.3.3}AMS Classes}{179}{subsection.8.3.3}
+\contentsline {subsection}{\numberline {8.3.4}Mobile Simulator Interface Design}{179}{subsection.8.3.4}
+\contentsline {section}{\numberline {8.4}Learner interaction with LMS}{179}{section.8.4}
+\contentsline {section}{\numberline {8.5}Summary}{179}{section.8.5}
+\contentsline {section}{\numberline {8.6}Review Questions}{182}{section.8.6}
+\contentsline {section}{\numberline {8.7}Exercises and Labs}{182}{section.8.7}
+\contentsline {chapter}{\numberline {9}Web 2.0 in LMS}{183}{chapter.9}
+\contentsline {section}{\numberline {9.1}Introduction}{183}{section.9.1}
+\contentsline {section}{\numberline {9.2}Web 2.0 Technologies}{184}{section.9.2}
+\contentsline {section}{\numberline {9.3}e-Learning 2.0 via Web 2.0}{188}{section.9.3}
+\contentsline {section}{\numberline {9.4}Web 2.0 in Learning Institutions}{190}{section.9.4}
+\contentsline {section}{\numberline {9.5}Examples of Web 2.0 in Learning}{191}{section.9.5}
+\contentsline {subsection}{\numberline {9.5.1}Summary and Comparison}{193}{subsection.9.5.1}
+\contentsline {section}{\numberline {9.6}Web 2.0 for Learning Institutions}{195}{section.9.6}
+\contentsline {section}{\numberline {9.7}In-Lecture Web 2.0}{197}{section.9.7}
+\contentsline {subsection}{\numberline {9.7.1}Web Application}{197}{subsection.9.7.1}
+\contentsline {subsection}{\numberline {9.7.2}Real-Time Web}{198}{subsection.9.7.2}
+\contentsline {subsection}{\numberline {9.7.3}Mobile Applications}{199}{subsection.9.7.3}
+\contentsline {section}{\numberline {9.8}After Lecture Web 2.0}{201}{section.9.8}
+\contentsline {subsection}{\numberline {9.8.1}Collaboration Tools}{201}{subsection.9.8.1}
+\contentsline {subsection}{\numberline {9.8.2}Social Networks}{203}{subsection.9.8.2}
+\contentsline {section}{\numberline {9.9}Future of Attended Classes}{204}{section.9.9}
+\contentsline {section}{\numberline {9.10}Future Research Directions}{206}{section.9.10}
+\contentsline {section}{\numberline {9.11}SOA Selected Topics}{207}{section.9.11}
+\contentsline {subsection}{\numberline {9.11.1}WOA and Web 2.0 Effect on SOA}{207}{subsection.9.11.1}
+\contentsline {section}{\numberline {9.12}Summary}{208}{section.9.12}
+\contentsline {section}{\numberline {9.13}Review Questions}{208}{section.9.13}
+\contentsline {section}{\numberline {9.14}Exercises and Labs}{209}{section.9.14}
+\contentsline {chapter}{\numberline {10}Evaluation of SOA in e-Learning}{211}{chapter.10}
+\contentsline {section}{\numberline {10.1}Introduction}{211}{section.10.1}
+\contentsline {section}{\numberline {10.2}Current Situation and Solution}{212}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Current IT Infrastructure}{213}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Proposed IT Modifications}{214}{subsection.10.2.2}
+\contentsline {section}{\numberline {10.3}Evaluation of Solution}{214}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}IS Evaluation}{216}{subsection.10.3.1}
+\contentsline {subsubsection}{Analysis Tools}{216}{section*.89}
+\contentsline {subsubsection}{Network Performance}{216}{section*.90}
+\contentsline {subsubsection}{User Perceived Performance}{218}{section*.91}
+\contentsline {subsubsection}{Functionality}{222}{section*.92}
+\contentsline {paragraph}{Integration and Interoperability}{222}{section*.93}
+\contentsline {paragraph}{Compliance}{222}{section*.94}
+\contentsline {paragraph}{Security}{222}{section*.95}
+\contentsline {paragraph}{Maintainability}{223}{section*.96}
+\contentsline {subparagraph}{Analyzability, Decomposability, and Modularity}{223}{section*.97}
+\contentsline {subparagraph}{Testability}{223}{section*.98}
+\contentsline {paragraph}{Portability}{224}{section*.99}
+\contentsline {subparagraph}{Replaceability}{224}{section*.100}
+\contentsline {paragraph}{Scalability}{224}{section*.101}
+\contentsline {subparagraph}{Hardware Scalability}{224}{section*.102}
+\contentsline {subparagraph}{Software Scalability}{225}{section*.103}
+\contentsline {paragraph}{Simplicity}{225}{section*.104}
+\contentsline {paragraph}{Modifiability}{225}{section*.105}
+\contentsline {subparagraph}{Extensibility}{226}{section*.106}
+\contentsline {subparagraph}{Reusability}{226}{section*.107}
+\contentsline {subsection}{\numberline {10.3.2}Pedagogical Evaluation}{226}{subsection.10.3.2}
+\contentsline {section}{\numberline {10.4}SOA Selected Topics}{227}{section.10.4}
+\contentsline {subsection}{\numberline {10.4.1}SOA Governance}{227}{subsection.10.4.1}
+\contentsline {subsection}{\numberline {10.4.2}Need of SOA Governance}{228}{subsection.10.4.2}
+\contentsline {subsection}{\numberline {10.4.3}Proper Service Granularity}{228}{subsection.10.4.3}
+\contentsline {section}{\numberline {10.5}Summary}{228}{section.10.5}
+\contentsline {section}{\numberline {10.6}Review Questions}{229}{section.10.6}
+\contentsline {section}{\numberline {10.7}Exercises and Labs}{229}{section.10.7}
+\contentsline {chapter}{\numberline {11}Mobile Information Agents}{231}{chapter.11}
+\contentsline {section}{\numberline {11.1}Introduction}{231}{section.11.1}
+\contentsline {subsection}{\numberline {11.1.1}Importance of Mobile Information Agents}{232}{subsection.11.1.1}
+\contentsline {subsection}{\numberline {11.1.2}Mobile Information Agents in Distributed Systems}{233}{subsection.11.1.2}
+\contentsline {subsection}{\numberline {11.1.3}Problem Definition}{235}{subsection.11.1.3}
+\contentsline {section}{\numberline {11.2}Mobile News Agent System}{235}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}Development Framework}{235}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}MNAS Components}{236}{subsection.11.2.2}
+\contentsline {subsection}{\numberline {11.2.3}Advantages and Disadvantages of MNAS}{238}{subsection.11.2.3}
+\contentsline {subsection}{\numberline {11.2.4}Technologies Used in MNAS}{239}{subsection.11.2.4}
+\contentsline {section}{\numberline {11.3}Analysis and Design of MNAS}{240}{section.11.3}
+\contentsline {section}{\numberline {11.4}MNAS Methods}{243}{section.11.4}
+\contentsline {subsection}{\numberline {11.4.1}Methods performed by Mobile News Agent}{243}{subsection.11.4.1}
+\contentsline {subsection}{\numberline {11.4.2}Methods performed by Hosts}{244}{subsection.11.4.2}
+\contentsline {section}{\numberline {11.5}Implementation Approaches of MNAS}{245}{section.11.5}
+\contentsline {subsection}{\numberline {11.5.1}Approach 1 'Single Processing \IeC {\textendash } Holding Data'}{245}{subsection.11.5.1}
+\contentsline {subsection}{\numberline {11.5.2}Approach 2 'Single Processing \IeC {\textendash } Delivering Data'}{245}{subsection.11.5.2}
+\contentsline {subsection}{\numberline {11.5.3}Approach 3 'Distributed Processing'}{246}{subsection.11.5.3}
+\contentsline {section}{\numberline {11.6}Performance Measurements}{248}{section.11.6}
+\contentsline {section}{\numberline {11.7}Comments on Results}{250}{section.11.7}
+\contentsline {section}{\numberline {11.8}SOA Selected Topics}{251}{section.11.8}
+\contentsline {subsection}{\numberline {11.8.1}Information Services}{251}{subsection.11.8.1}
+\contentsline {subsection}{\numberline {11.8.2}Information Services Classification}{253}{subsection.11.8.2}
+\contentsline {section}{\numberline {11.9}Summary}{253}{section.11.9}
+\contentsline {section}{\numberline {11.10}Review Questions}{254}{section.11.10}
+\contentsline {section}{\numberline {11.11}Exercises and Labs}{255}{section.11.11}
+\contentsline {chapter}{\numberline {12}Mobiles in Community Services}{257}{chapter.12}
+\contentsline {section}{\numberline {12.1}Introduction}{257}{section.12.1}
+\contentsline {subsection}{\numberline {12.1.1}Need for The Project}{257}{subsection.12.1.1}
+\contentsline {subsection}{\numberline {12.1.2}Scope}{258}{subsection.12.1.2}
+\contentsline {subsection}{\numberline {12.1.3}Aim}{258}{subsection.12.1.3}
+\contentsline {subsection}{\numberline {12.1.4}Objectives}{258}{subsection.12.1.4}
+\contentsline {subsection}{\numberline {12.1.5}Integrating Web and Mobile}{258}{subsection.12.1.5}
+\contentsline {section}{\numberline {12.2}Mobile Components}{259}{section.12.2}
+\contentsline {subsection}{\numberline {12.2.1}User Requirements}{259}{subsection.12.2.1}
+\contentsline {subsection}{\numberline {12.2.2}User Interaction with Sanay3y}{260}{subsection.12.2.2}
+\contentsline {section}{\numberline {12.3}Interface Design}{262}{section.12.3}
+\contentsline {section}{\numberline {12.4}Integrating Web and Mobile}{262}{section.12.4}
+\contentsline {subsection}{\numberline {12.4.1}Integration}{265}{subsection.12.4.1}
+\contentsline {subsection}{\numberline {12.4.2}Sanay3y Application Architecture}{266}{subsection.12.4.2}
+\contentsline {section}{\numberline {12.5}Summary}{268}{section.12.5}
+\contentsline {chapter}{\numberline {A}Resources}{271}{appendix.A}
+\contentsline {section}{\numberline {A.1}Book Resources}{271}{section.A.1}
+\contentsline {paragraph}{Course Page}{271}{section*.108}
+\contentsline {paragraph}{Errata}{271}{section*.109}
+\contentsline {section}{\numberline {A.2}Learning Management Systems}{271}{section.A.2}
+\contentsline {chapter}{\numberline {B}Acronyms and Glossary}{273}{appendix.B}
+\contentsline {section}{Acronyms}{273}{section*.110}
+\contentsline {section}{Glossary}{276}{section*.112}
+\contentsline {chapter}{Bibliography}{300}{appendix*.114}

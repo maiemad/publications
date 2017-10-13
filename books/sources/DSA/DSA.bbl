@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{foord2009ironpython}
+M.J. Foord and C.~Muirhead.
+\newblock {\em IronPython in action}.
+\newblock Manning Pubs Co Series. Manning, 2009.
+
+\bibitem{Robert-Google}
+Robert Hundt.
+\newblock Loop recognition in c++/java/go/scala, 2011.
+
+\bibitem{Peter-Norvig-10years}
+Peter Norvig.
+\newblock Teach yourself programming in ten years.
+
+\end{thebibliography}

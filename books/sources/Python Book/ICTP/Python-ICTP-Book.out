@@ -1,0 +1,490 @@
+\BOOKMARK [0][-]{chapter*.2}{Acknowledgment}{}% 1
+\BOOKMARK [0][-]{chapter*.9}{Preface}{}% 2
+\BOOKMARK [-1][-]{part.1}{I Open Source Technologies and Programming}{}% 3
+\BOOKMARK [0][-]{chapter.1}{Open Source: General Introduction}{part.1}% 4
+\BOOKMARK [0][-]{chapter.2}{Teach yourself Programming in 10 Years}{part.1}% 5
+\BOOKMARK [1][-]{section.2.1}{Why is everyone in such a rush?}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.2}{Teach Yourself Programming in Ten Years}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.3}{So You Want to be a Programmer}{chapter.2}% 8
+\BOOKMARK [0][-]{chapter.3}{Programming Languages Are Not The Same}{part.1}% 9
+\BOOKMARK [1][-]{section.3.1}{Basis for Comparing Programming Languages}{chapter.3}% 10
+\BOOKMARK [2][-]{subsection.3.1.1}{Object Orientation}{section.3.1}% 11
+\BOOKMARK [2][-]{subsection.3.1.2}{Static vs. Dynamic Typing}{section.3.1}% 12
+\BOOKMARK [2][-]{subsection.3.1.3}{Generic Classes}{section.3.1}% 13
+\BOOKMARK [2][-]{subsection.3.1.4}{Inheritence}{section.3.1}% 14
+\BOOKMARK [2][-]{subsection.3.1.5}{Feature Renaming}{section.3.1}% 15
+\BOOKMARK [2][-]{subsection.3.1.6}{Method Overloading}{section.3.1}% 16
+\BOOKMARK [2][-]{subsection.3.1.7}{Operator Overloading}{section.3.1}% 17
+\BOOKMARK [2][-]{subsection.3.1.8}{Higher Order Functions \046 Lexical Closures}{section.3.1}% 18
+\BOOKMARK [2][-]{subsection.3.1.9}{Garbage Collection}{section.3.1}% 19
+\BOOKMARK [2][-]{subsection.3.1.10}{Uniform Access}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.11}{Class Variables/Methods}{section.3.1}% 21
+\BOOKMARK [2][-]{subsection.3.1.12}{Reflection}{section.3.1}% 22
+\BOOKMARK [2][-]{subsection.3.1.13}{Access Control}{section.3.1}% 23
+\BOOKMARK [2][-]{subsection.3.1.14}{Design by Contract}{section.3.1}% 24
+\BOOKMARK [2][-]{subsection.3.1.15}{Multithreading}{section.3.1}% 25
+\BOOKMARK [2][-]{subsection.3.1.16}{Regular Expressions}{section.3.1}% 26
+\BOOKMARK [2][-]{subsection.3.1.17}{Pointer Arithmetic}{section.3.1}% 27
+\BOOKMARK [2][-]{subsection.3.1.18}{Language Integration}{section.3.1}% 28
+\BOOKMARK [2][-]{subsection.3.1.19}{Built-In Security}{section.3.1}% 29
+\BOOKMARK [1][-]{section.3.2}{Comparing based on Performance and Optimization}{chapter.3}% 30
+\BOOKMARK [-1][-]{part.2}{II Python Basics}{}% 31
+\BOOKMARK [0][-]{chapter.4}{Python Tutorial}{part.2}% 32
+\BOOKMARK [-1][-]{part.3}{III Advanced Python Features}{}% 33
+\BOOKMARK [0][-]{chapter.5}{Advanced Python}{part.3}% 34
+\BOOKMARK [-1][-]{part.4}{IV Object Oriented Python}{}% 35
+\BOOKMARK [0][-]{chapter.6}{Classes and objects}{part.4}% 36
+\BOOKMARK [1][-]{section.6.1}{User-defined types}{chapter.6}% 37
+\BOOKMARK [1][-]{section.6.2}{Attributes}{chapter.6}% 38
+\BOOKMARK [1][-]{section.6.3}{Rectangles}{chapter.6}% 39
+\BOOKMARK [1][-]{section.6.4}{Instances as return values}{chapter.6}% 40
+\BOOKMARK [1][-]{section.6.5}{Objects are mutable}{chapter.6}% 41
+\BOOKMARK [1][-]{section.6.6}{Copying}{chapter.6}% 42
+\BOOKMARK [1][-]{section.6.7}{Debugging}{chapter.6}% 43
+\BOOKMARK [1][-]{section.6.8}{Glossary}{chapter.6}% 44
+\BOOKMARK [1][-]{section.6.9}{Exercises}{chapter.6}% 45
+\BOOKMARK [0][-]{chapter.7}{Classes and functions}{part.4}% 46
+\BOOKMARK [1][-]{section.7.1}{Time}{chapter.7}% 47
+\BOOKMARK [1][-]{section.7.2}{Pure functions}{chapter.7}% 48
+\BOOKMARK [1][-]{section.7.3}{Modifiers}{chapter.7}% 49
+\BOOKMARK [1][-]{section.7.4}{Prototyping versus planning}{chapter.7}% 50
+\BOOKMARK [1][-]{section.7.5}{Debugging}{chapter.7}% 51
+\BOOKMARK [1][-]{section.7.6}{Glossary}{chapter.7}% 52
+\BOOKMARK [1][-]{section.7.7}{Exercises}{chapter.7}% 53
+\BOOKMARK [0][-]{chapter.8}{Classes and methods}{part.4}% 54
+\BOOKMARK [1][-]{section.8.1}{Object-oriented features}{chapter.8}% 55
+\BOOKMARK [1][-]{section.8.2}{Printing objects}{chapter.8}% 56
+\BOOKMARK [1][-]{section.8.3}{Another example}{chapter.8}% 57
+\BOOKMARK [1][-]{section.8.4}{A more complicated example}{chapter.8}% 58
+\BOOKMARK [1][-]{section.8.5}{The init method}{chapter.8}% 59
+\BOOKMARK [1][-]{section.8.6}{The \137\137str\137\137 method}{chapter.8}% 60
+\BOOKMARK [1][-]{section.8.7}{Operator overloading}{chapter.8}% 61
+\BOOKMARK [1][-]{section.8.8}{Type-based dispatch}{chapter.8}% 62
+\BOOKMARK [1][-]{section.8.9}{Polymorphism}{chapter.8}% 63
+\BOOKMARK [1][-]{section.8.10}{Debugging}{chapter.8}% 64
+\BOOKMARK [1][-]{section.8.11}{Interface and implementation}{chapter.8}% 65
+\BOOKMARK [1][-]{section.8.12}{Glossary}{chapter.8}% 66
+\BOOKMARK [1][-]{section.8.13}{Exercises}{chapter.8}% 67
+\BOOKMARK [0][-]{chapter.9}{Inheritance}{part.4}% 68
+\BOOKMARK [1][-]{section.9.1}{Card objects}{chapter.9}% 69
+\BOOKMARK [1][-]{section.9.2}{Class attributes}{chapter.9}% 70
+\BOOKMARK [1][-]{section.9.3}{Comparing cards}{chapter.9}% 71
+\BOOKMARK [1][-]{section.9.4}{Decks}{chapter.9}% 72
+\BOOKMARK [1][-]{section.9.5}{Printing the deck}{chapter.9}% 73
+\BOOKMARK [1][-]{section.9.6}{Add, remove, shuffle and sort}{chapter.9}% 74
+\BOOKMARK [1][-]{section.9.7}{Inheritance}{chapter.9}% 75
+\BOOKMARK [1][-]{section.9.8}{Class diagrams}{chapter.9}% 76
+\BOOKMARK [1][-]{section.9.9}{Debugging}{chapter.9}% 77
+\BOOKMARK [1][-]{section.9.10}{Data encapsulation}{chapter.9}% 78
+\BOOKMARK [1][-]{section.9.11}{Glossary}{chapter.9}% 79
+\BOOKMARK [1][-]{section.9.12}{Exercises}{chapter.9}% 80
+\BOOKMARK [0][-]{chapter.10}{Python GUI}{part.4}% 81
+\BOOKMARK [0][-]{chapter.11}{Python Facts}{part.4}% 82
+\BOOKMARK [1][-]{section.11.1}{Zip}{chapter.11}% 83
+\BOOKMARK [1][-]{section.11.2}{List Comprehensions Support Conditions}{chapter.11}% 84
+\BOOKMARK [1][-]{section.11.3}{Expanding arrays to function arguments}{chapter.11}% 85
+\BOOKMARK [1][-]{section.11.4}{Ordered and Named Function Arguments}{chapter.11}% 86
+\BOOKMARK [1][-]{section.11.5}{Functions as objects}{chapter.11}% 87
+\BOOKMARK [1][-]{section.11.6}{Mutability}{chapter.11}% 88
+\BOOKMARK [1][-]{section.11.7}{Change mutable lists using another name}{chapter.11}% 89
+\BOOKMARK [1][-]{section.11.8}{Factorial Function}{chapter.11}% 90
+\BOOKMARK [1][-]{section.11.9}{String formatting using dictionaries}{chapter.11}% 91
+\BOOKMARK [1][-]{section.11.10}{Never Define One Line Functions}{chapter.11}% 92
+\BOOKMARK [1][-]{section.11.11}{Number from Digits}{chapter.11}% 93
+\BOOKMARK [1][-]{section.11.12}{Generator Functions}{chapter.11}% 94
+\BOOKMARK [1][-]{section.11.13}{Parsing REST API}{chapter.11}% 95
+\BOOKMARK [1][-]{section.11.14}{Sets for finding unions and intersections}{chapter.11}% 96
+\BOOKMARK [1][-]{section.11.15}{Locals and strings}{chapter.11}% 97
+\BOOKMARK [1][-]{section.11.16}{Encoding \046 Decoding}{chapter.11}% 98
+\BOOKMARK [1][-]{section.11.17}{Set Comprehensions}{chapter.11}% 99
+\BOOKMARK [1][-]{section.11.18}{dict\(\) and zip\(\) make for a powerful combination}{chapter.11}% 100
+\BOOKMARK [1][-]{section.11.19}{Bools inherit from int}{chapter.11}% 101
+\BOOKMARK [1][-]{section.11.20}{The Zen of Python}{chapter.11}% 102
+\BOOKMARK [0][-]{chapter.12}{Python Glossary}{part.4}% 103
+\BOOKMARK [1][-]{section.12.1}{List}{chapter.12}% 104
+\BOOKMARK [1][-]{section.12.2}{Slice}{chapter.12}% 105
+\BOOKMARK [1][-]{section.12.3}{Variables}{chapter.12}% 106
+\BOOKMARK [1][-]{section.12.4}{Functions}{chapter.12}% 107
+\BOOKMARK [1][-]{section.12.5}{Tuples}{chapter.12}% 108
+\BOOKMARK [1][-]{section.12.6}{List Comprehensions}{chapter.12}% 109
+\BOOKMARK [1][-]{section.12.7}{Sets}{chapter.12}% 110
+\BOOKMARK [1][-]{section.12.8}{Dictionaries}{chapter.12}% 111
+\BOOKMARK [1][-]{section.12.9}{Strings}{chapter.12}% 112
+\BOOKMARK [1][-]{section.12.10}{The len\(\) Function}{chapter.12}% 113
+\BOOKMARK [1][-]{section.12.11}{Single Line Comments}{chapter.12}% 114
+\BOOKMARK [1][-]{section.12.12}{Multi-line Comments}{chapter.12}% 115
+\BOOKMARK [1][-]{section.12.13}{Print}{chapter.12}% 116
+\BOOKMARK [1][-]{section.12.14}{The range\(\) Function}{chapter.12}% 117
+\BOOKMARK [1][-]{section.12.15}{For Loops}{chapter.12}% 118
+\BOOKMARK [1][-]{section.12.16}{While Loops}{chapter.12}% 119
+\BOOKMARK [1][-]{section.12.17}{The str\(\) Function}{chapter.12}% 120
+\BOOKMARK [1][-]{section.12.18}{>>>}{chapter.12}% 121
+\BOOKMARK [1][-]{section.12.19}{...}{chapter.12}% 122
+\BOOKMARK [1][-]{section.12.20}{2to3}{chapter.12}% 123
+\BOOKMARK [1][-]{section.12.21}{abstract base class}{chapter.12}% 124
+\BOOKMARK [1][-]{section.12.22}{argument}{chapter.12}% 125
+\BOOKMARK [1][-]{section.12.23}{attribute}{chapter.12}% 126
+\BOOKMARK [1][-]{section.12.24}{BDFL}{chapter.12}% 127
+\BOOKMARK [1][-]{section.12.25}{bytecode}{chapter.12}% 128
+\BOOKMARK [1][-]{section.12.26}{class}{chapter.12}% 129
+\BOOKMARK [1][-]{section.12.27}{classic class}{chapter.12}% 130
+\BOOKMARK [1][-]{section.12.28}{coercion}{chapter.12}% 131
+\BOOKMARK [1][-]{section.12.29}{complex number}{chapter.12}% 132
+\BOOKMARK [1][-]{section.12.30}{context manager}{chapter.12}% 133
+\BOOKMARK [1][-]{section.12.31}{CPython}{chapter.12}% 134
+\BOOKMARK [1][-]{section.12.32}{decorator}{chapter.12}% 135
+\BOOKMARK [1][-]{section.12.33}{descriptor}{chapter.12}% 136
+\BOOKMARK [1][-]{section.12.34}{dictionary}{chapter.12}% 137
+\BOOKMARK [1][-]{section.12.35}{docstring}{chapter.12}% 138
+\BOOKMARK [1][-]{section.12.36}{duck-typing}{chapter.12}% 139
+\BOOKMARK [1][-]{section.12.37}{EAFP}{chapter.12}% 140
+\BOOKMARK [1][-]{section.12.38}{expression}{chapter.12}% 141
+\BOOKMARK [1][-]{section.12.39}{extension module}{chapter.12}% 142
+\BOOKMARK [1][-]{section.12.40}{file object}{chapter.12}% 143
+\BOOKMARK [1][-]{section.12.41}{file-like object}{chapter.12}% 144
+\BOOKMARK [1][-]{section.12.42}{finder}{chapter.12}% 145
+\BOOKMARK [1][-]{section.12.43}{floor division}{chapter.12}% 146
+\BOOKMARK [1][-]{section.12.44}{function}{chapter.12}% 147
+\BOOKMARK [1][-]{section.12.45}{\137\137future\137\137}{chapter.12}% 148
+\BOOKMARK [1][-]{section.12.46}{garbage collection}{chapter.12}% 149
+\BOOKMARK [1][-]{section.12.47}{generator}{chapter.12}% 150
+\BOOKMARK [1][-]{section.12.48}{generator expression}{chapter.12}% 151
+\BOOKMARK [1][-]{section.12.49}{GIL}{chapter.12}% 152
+\BOOKMARK [1][-]{section.12.50}{global interpreter lock}{chapter.12}% 153
+\BOOKMARK [1][-]{section.12.51}{hashable}{chapter.12}% 154
+\BOOKMARK [1][-]{section.12.52}{IDLE}{chapter.12}% 155
+\BOOKMARK [1][-]{section.12.53}{immutable}{chapter.12}% 156
+\BOOKMARK [1][-]{section.12.54}{integer division}{chapter.12}% 157
+\BOOKMARK [1][-]{section.12.55}{importer}{chapter.12}% 158
+\BOOKMARK [1][-]{section.12.56}{interactive}{chapter.12}% 159
+\BOOKMARK [1][-]{section.12.57}{interpreted}{chapter.12}% 160
+\BOOKMARK [1][-]{section.12.58}{iterable}{chapter.12}% 161
+\BOOKMARK [1][-]{section.12.59}{iterator}{chapter.12}% 162
+\BOOKMARK [1][-]{section.12.60}{key function}{chapter.12}% 163
+\BOOKMARK [1][-]{section.12.61}{keyword argument}{chapter.12}% 164
+\BOOKMARK [1][-]{section.12.62}{lambda}{chapter.12}% 165
+\BOOKMARK [1][-]{section.12.63}{LBYL}{chapter.12}% 166
+\BOOKMARK [1][-]{section.12.64}{list}{chapter.12}% 167
+\BOOKMARK [1][-]{section.12.65}{list comprehension}{chapter.12}% 168
+\BOOKMARK [1][-]{section.12.66}{loader}{chapter.12}% 169
+\BOOKMARK [1][-]{section.12.67}{mapping}{chapter.12}% 170
+\BOOKMARK [1][-]{section.12.68}{metaclass}{chapter.12}% 171
+\BOOKMARK [1][-]{section.12.69}{method}{chapter.12}% 172
+\BOOKMARK [1][-]{section.12.70}{method resolution order}{chapter.12}% 173
+\BOOKMARK [1][-]{section.12.71}{MRO}{chapter.12}% 174
+\BOOKMARK [1][-]{section.12.72}{mutable}{chapter.12}% 175
+\BOOKMARK [1][-]{section.12.73}{named tuple}{chapter.12}% 176
+\BOOKMARK [1][-]{section.12.74}{namespace}{chapter.12}% 177
+\BOOKMARK [1][-]{section.12.75}{nested scope}{chapter.12}% 178
+\BOOKMARK [1][-]{section.12.76}{new-style class}{chapter.12}% 179
+\BOOKMARK [1][-]{section.12.77}{object}{chapter.12}% 180
+\BOOKMARK [1][-]{section.12.78}{parameter}{chapter.12}% 181
+\BOOKMARK [1][-]{section.12.79}{positional argument}{chapter.12}% 182
+\BOOKMARK [1][-]{section.12.80}{Python 3000}{chapter.12}% 183
+\BOOKMARK [1][-]{section.12.81}{Pythonic}{chapter.12}% 184
+\BOOKMARK [1][-]{section.12.82}{\137\137slots\137\137}{chapter.12}% 185
+\BOOKMARK [1][-]{section.12.83}{sequence}{chapter.12}% 186
+\BOOKMARK [1][-]{section.12.84}{slice}{chapter.12}% 187
+\BOOKMARK [1][-]{section.12.85}{special method}{chapter.12}% 188
+\BOOKMARK [1][-]{section.12.86}{statement}{chapter.12}% 189
+\BOOKMARK [1][-]{section.12.87}{struct sequence}{chapter.12}% 190
+\BOOKMARK [1][-]{section.12.88}{type}{chapter.12}% 191
+\BOOKMARK [1][-]{section.12.89}{view}{chapter.12}% 192
+\BOOKMARK [1][-]{section.12.90}{virtual machine}{chapter.12}% 193
+\BOOKMARK [1][-]{section.12.91}{Zen of Python}{chapter.12}% 194
+\BOOKMARK [0][-]{chapter.13}{Project}{part.4}% 195
+\BOOKMARK [0][-]{chapter.14}{List Methods}{part.4}% 196
+\BOOKMARK [0][-]{chapter.15}{String Formattig}{part.4}% 197
+\BOOKMARK [0][-]{chapter.16}{Built-in Modules}{part.4}% 198
+\BOOKMARK [-1][-]{part.5}{V Python Labs}{}% 199
+\BOOKMARK [0][-]{chapter.17}{Python Syntax}{part.5}% 200
+\BOOKMARK [1][-]{section.17.1}{Variables and Data Types}{chapter.17}% 201
+\BOOKMARK [2][-]{subsection.17.1.1}{Variables}{section.17.1}% 202
+\BOOKMARK [2][-]{subsection.17.1.2}{Data Types}{section.17.1}% 203
+\BOOKMARK [2][-]{subsection.17.1.3}{You've Been Reassigned}{section.17.1}% 204
+\BOOKMARK [1][-]{section.17.2}{Whitespace and Statements}{chapter.17}% 205
+\BOOKMARK [2][-]{subsection.17.2.1}{What's a Statement?}{section.17.2}% 206
+\BOOKMARK [2][-]{subsection.17.2.2}{Whitespace Means Right Space}{section.17.2}% 207
+\BOOKMARK [2][-]{subsection.17.2.3}{A Matter of Interpretation}{section.17.2}% 208
+\BOOKMARK [1][-]{section.17.3}{Comments}{chapter.17}% 209
+\BOOKMARK [2][-]{subsection.17.3.1}{Single Line Comments}{section.17.3}% 210
+\BOOKMARK [2][-]{subsection.17.3.2}{Multi-Line Comments}{section.17.3}% 211
+\BOOKMARK [1][-]{section.17.4}{Math Operations}{chapter.17}% 212
+\BOOKMARK [2][-]{subsection.17.4.1}{Arithmetic Operators}{section.17.4}% 213
+\BOOKMARK [2][-]{subsection.17.4.2}{Subtraction}{section.17.4}% 214
+\BOOKMARK [2][-]{subsection.17.4.3}{Multiplication}{section.17.4}% 215
+\BOOKMARK [2][-]{subsection.17.4.4}{Division}{section.17.4}% 216
+\BOOKMARK [2][-]{subsection.17.4.5}{Exponentiation}{section.17.4}% 217
+\BOOKMARK [2][-]{subsection.17.4.6}{Modulo}{section.17.4}% 218
+\BOOKMARK [1][-]{section.17.5}{Review}{chapter.17}% 219
+\BOOKMARK [2][-]{subsection.17.5.1}{Bringing It All Together}{section.17.5}% 220
+\BOOKMARK [1][-]{section.17.6}{Project: Tip Calculator}{chapter.17}% 221
+\BOOKMARK [2][-]{subsection.17.6.1}{Your Favorite Meal}{section.17.6}% 222
+\BOOKMARK [2][-]{subsection.17.6.2}{The Tax}{section.17.6}% 223
+\BOOKMARK [2][-]{subsection.17.6.3}{The Tip}{section.17.6}% 224
+\BOOKMARK [2][-]{subsection.17.6.4}{Reassign in a Single Line}{section.17.6}% 225
+\BOOKMARK [2][-]{subsection.17.6.5}{Second Verse, Same as the First}{section.17.6}% 226
+\BOOKMARK [0][-]{chapter.18}{Strings and Console Output}{part.5}% 227
+\BOOKMARK [1][-]{section.18.1}{Strings}{chapter.18}% 228
+\BOOKMARK [2][-]{subsection.18.1.1}{Step One: Strings}{section.18.1}% 229
+\BOOKMARK [2][-]{subsection.18.1.2}{Step Two: Things}{section.18.1}% 230
+\BOOKMARK [2][-]{subsection.18.1.3}{Step Three: Escape!}{section.18.1}% 231
+\BOOKMARK [2][-]{subsection.18.1.4}{Access by Offset}{section.18.1}% 232
+\BOOKMARK [1][-]{section.18.2}{String Methods}{chapter.18}% 233
+\BOOKMARK [2][-]{subsection.18.2.1}{Four Methods to the Madness}{section.18.2}% 234
+\BOOKMARK [2][-]{subsection.18.2.2}{lower\(\)}{section.18.2}% 235
+\BOOKMARK [2][-]{subsection.18.2.3}{upper\(\)}{section.18.2}% 236
+\BOOKMARK [2][-]{subsection.18.2.4}{str\(\)}{section.18.2}% 237
+\BOOKMARK [2][-]{subsection.18.2.5}{Dot Notation}{section.18.2}% 238
+\BOOKMARK [1][-]{section.18.3}{Print}{chapter.18}% 239
+\BOOKMARK [2][-]{subsection.18.3.1}{Printing with String Literals}{section.18.3}% 240
+\BOOKMARK [2][-]{subsection.18.3.2}{Printing with Variables}{section.18.3}% 241
+\BOOKMARK [1][-]{section.18.4}{Advanced Printing}{chapter.18}% 242
+\BOOKMARK [2][-]{subsection.18.4.1}{String Concatenation}{section.18.4}% 243
+\BOOKMARK [2][-]{subsection.18.4.2}{Explicit String Conversion}{section.18.4}% 244
+\BOOKMARK [2][-]{subsection.18.4.3}{String Formatting with \045, Part 1}{section.18.4}% 245
+\BOOKMARK [2][-]{subsection.18.4.4}{String Formatting with \045, Part 2}{section.18.4}% 246
+\BOOKMARK [1][-]{section.18.5}{Review}{chapter.18}% 247
+\BOOKMARK [2][-]{subsection.18.5.1}{INSTRUCTIONS}{section.18.5}% 248
+\BOOKMARK [1][-]{section.18.6}{Project: Date and Time}{chapter.18}% 249
+\BOOKMARK [2][-]{subsection.18.6.1}{The datetime Library}{section.18.6}% 250
+\BOOKMARK [2][-]{subsection.18.6.2}{Getting the Current Date and Time}{section.18.6}% 251
+\BOOKMARK [2][-]{subsection.18.6.3}{Extracting Information}{section.18.6}% 252
+\BOOKMARK [2][-]{subsection.18.6.4}{Hot Date}{section.18.6}% 253
+\BOOKMARK [2][-]{subsection.18.6.5}{Pretty Time}{section.18.6}% 254
+\BOOKMARK [2][-]{subsection.18.6.6}{Grand Finale}{section.18.6}% 255
+\BOOKMARK [0][-]{chapter.19}{Conditionals and Control Flow}{part.5}% 256
+\BOOKMARK [1][-]{section.19.1}{Introduction to Control Flow}{chapter.19}% 257
+\BOOKMARK [2][-]{subsection.19.1.1}{Go With the Flow}{section.19.1}% 258
+\BOOKMARK [1][-]{section.19.2}{Comparators}{chapter.19}% 259
+\BOOKMARK [2][-]{subsection.19.2.1}{Compare Closely!}{section.19.2}% 260
+\BOOKMARK [2][-]{subsection.19.2.2}{Compare... Closelier}{section.19.2}% 261
+\BOOKMARK [2][-]{subsection.19.2.3}{How the Tables Have Turned}{section.19.2}% 262
+\BOOKMARK [1][-]{section.19.3}{Boolean Operators}{chapter.19}% 263
+\BOOKMARK [2][-]{subsection.19.3.1}{To Be and/or Not to Be}{section.19.3}% 264
+\BOOKMARK [2][-]{subsection.19.3.2}{And}{section.19.3}% 265
+\BOOKMARK [2][-]{subsection.19.3.3}{Or}{section.19.3}% 266
+\BOOKMARK [2][-]{subsection.19.3.4}{Not}{section.19.3}% 267
+\BOOKMARK [2][-]{subsection.19.3.5}{This and That \(or This, But Not That!\)}{section.19.3}% 268
+\BOOKMARK [2][-]{subsection.19.3.6}{Mix 'n Match}{section.19.3}% 269
+\BOOKMARK [1][-]{section.19.4}{If, Else and Elif}{chapter.19}% 270
+\BOOKMARK [2][-]{subsection.19.4.1}{Conditional Statement Syntax}{section.19.4}% 271
+\BOOKMARK [2][-]{subsection.19.4.2}{If You're Having...}{section.19.4}% 272
+\BOOKMARK [2][-]{subsection.19.4.3}{Else Problems, I Feel Bad for You, Son...}{section.19.4}% 273
+\BOOKMARK [2][-]{subsection.19.4.4}{I Got 99 Problems, But a Switch Ain't One}{section.19.4}% 274
+\BOOKMARK [1][-]{section.19.5}{Review}{chapter.19}% 275
+\BOOKMARK [2][-]{subsection.19.5.1}{The Big If}{section.19.5}% 276
+\BOOKMARK [0][-]{chapter.20}{Project: PygLatin}{part.5}% 277
+\BOOKMARK [1][-]{section.20.1}{PygLatin Part 1}{chapter.20}% 278
+\BOOKMARK [2][-]{subsection.20.1.1}{Break It Down}{section.20.1}% 279
+\BOOKMARK [2][-]{subsection.20.1.2}{Ahoy! \(or Should I Say Ahoyay!\)}{section.20.1}% 280
+\BOOKMARK [2][-]{subsection.20.1.3}{Input!}{section.20.1}% 281
+\BOOKMARK [2][-]{subsection.20.1.4}{Check Yourself!}{section.20.1}% 282
+\BOOKMARK [2][-]{subsection.20.1.5}{Check Yourself... Some More}{section.20.1}% 283
+\BOOKMARK [2][-]{subsection.20.1.6}{Pop Quiz!}{section.20.1}% 284
+\BOOKMARK [1][-]{section.20.2}{PygLatin Part 2}{chapter.20}% 285
+\BOOKMARK [2][-]{subsection.20.2.1}{Ay B C}{section.20.2}% 286
+\BOOKMARK [2][-]{subsection.20.2.2}{Word Up}{section.20.2}% 287
+\BOOKMARK [2][-]{subsection.20.2.3}{E-I-E-I-O}{section.20.2}% 288
+\BOOKMARK [2][-]{subsection.20.2.4}{I'd Like to Buy a Vowel}{section.20.2}% 289
+\BOOKMARK [2][-]{subsection.20.2.5}{Almost Oneday!}{section.20.2}% 290
+\BOOKMARK [2][-]{subsection.20.2.6}{Testing, Testing, is This Thing On?}{section.20.2}% 291
+\BOOKMARK [0][-]{chapter.21}{Functions}{part.5}% 292
+\BOOKMARK [1][-]{section.21.1}{Introduction to Functions}{chapter.21}% 293
+\BOOKMARK [2][-]{subsection.21.1.1}{Documentation: a PSA}{section.21.1}% 294
+\BOOKMARK [2][-]{subsection.21.1.2}{Ample Examples}{section.21.1}% 295
+\BOOKMARK [1][-]{section.21.2}{Function Syntax}{chapter.21}% 296
+\BOOKMARK [2][-]{subsection.21.2.1}{Function Junction}{section.21.2}% 297
+\BOOKMARK [2][-]{subsection.21.2.2}{Call and Response}{section.21.2}% 298
+\BOOKMARK [2][-]{subsection.21.2.3}{No One Ever Does}{section.21.2}% 299
+\BOOKMARK [2][-]{subsection.21.2.4}{Splat!}{section.21.2}% 300
+\BOOKMARK [2][-]{subsection.21.2.5}{Functions Calling Functions}{section.21.2}% 301
+\BOOKMARK [2][-]{subsection.21.2.6}{Practice Makes Perfect}{section.21.2}% 302
+\BOOKMARK [1][-]{section.21.3}{Importing Modules}{chapter.21}% 303
+\BOOKMARK [2][-]{subsection.21.3.1}{I Know Kung Fu}{section.21.3}% 304
+\BOOKMARK [2][-]{subsection.21.3.2}{Generic Imports}{section.21.3}% 305
+\BOOKMARK [2][-]{subsection.21.3.3}{Function Imports}{section.21.3}% 306
+\BOOKMARK [2][-]{subsection.21.3.4}{Universal Imports}{section.21.3}% 307
+\BOOKMARK [2][-]{subsection.21.3.5}{Here Be Dragons}{section.21.3}% 308
+\BOOKMARK [1][-]{section.21.4}{Built-In Functions}{chapter.21}% 309
+\BOOKMARK [2][-]{subsection.21.4.1}{On Beyond Strings}{section.21.4}% 310
+\BOOKMARK [2][-]{subsection.21.4.2}{max\(\)}{section.21.4}% 311
+\BOOKMARK [2][-]{subsection.21.4.3}{min\(\)}{section.21.4}% 312
+\BOOKMARK [2][-]{subsection.21.4.4}{abs\(\)}{section.21.4}% 313
+\BOOKMARK [2][-]{subsection.21.4.5}{type\(\)}{section.21.4}% 314
+\BOOKMARK [1][-]{section.21.5}{Review}{chapter.21}% 315
+\BOOKMARK [2][-]{subsection.21.5.1}{Review: Functions}{section.21.5}% 316
+\BOOKMARK [2][-]{subsection.21.5.2}{Review: Modules}{section.21.5}% 317
+\BOOKMARK [2][-]{subsection.21.5.3}{Review: Built-In Functions}{section.21.5}% 318
+\BOOKMARK [0][-]{chapter.22}{Taking a Vacation}{part.5}% 319
+\BOOKMARK [1][-]{section.22.1}{A Review of Function Creation}{chapter.22}% 320
+\BOOKMARK [2][-]{subsection.22.1.1}{Before We Begin}{section.22.1}% 321
+\BOOKMARK [2][-]{subsection.22.1.2}{Finding Your Identity}{section.22.1}% 322
+\BOOKMARK [2][-]{subsection.22.1.3}{Call Me Maybe?}{section.22.1}% 323
+\BOOKMARK [2][-]{subsection.22.1.4}{Function and Control Flow}{section.22.1}% 324
+\BOOKMARK [2][-]{subsection.22.1.5}{Problem Solvers}{section.22.1}% 325
+\BOOKMARK [1][-]{section.22.2}{Planes, Hotels and Automobiles}{chapter.22}% 326
+\BOOKMARK [2][-]{subsection.22.2.1}{Planning Your Trip}{section.22.2}% 327
+\BOOKMARK [2][-]{subsection.22.2.2}{Getting There}{section.22.2}% 328
+\BOOKMARK [2][-]{subsection.22.2.3}{Transportation}{section.22.2}% 329
+\BOOKMARK [2][-]{subsection.22.2.4}{Pull it Together}{section.22.2}% 330
+\BOOKMARK [2][-]{subsection.22.2.5}{Hey, You Never Know!}{section.22.2}% 331
+\BOOKMARK [2][-]{subsection.22.2.6}{Plan Your Trip!}{section.22.2}% 332
+\BOOKMARK [1][-]{section.22.3}{Return to Base}{chapter.22}% 333
+\BOOKMARK [2][-]{subsection.22.3.1}{Coming Back Home}{section.22.3}% 334
+\BOOKMARK [2][-]{subsection.22.3.2}{Gotta Give Me Some Credit}{section.22.3}% 335
+\BOOKMARK [2][-]{subsection.22.3.3}{At a Bare Minimum}{section.22.3}% 336
+\BOOKMARK [2][-]{subsection.22.3.4}{Something of Interest}{section.22.3}% 337
+\BOOKMARK [2][-]{subsection.22.3.5}{Paying Up}{section.22.3}% 338
+\BOOKMARK [2][-]{subsection.22.3.6}{Run It}{section.22.3}% 339
+\BOOKMARK [0][-]{chapter.23}{Lists and Dictionaries}{part.5}% 340
+\BOOKMARK [1][-]{section.23.1}{Lists}{chapter.23}% 341
+\BOOKMARK [2][-]{subsection.23.1.1}{Introduction to Lists}{section.23.1}% 342
+\BOOKMARK [2][-]{subsection.23.1.2}{Access by Index}{section.23.1}% 343
+\BOOKMARK [2][-]{subsection.23.1.3}{New Neighbors}{section.23.1}% 344
+\BOOKMARK [1][-]{section.23.2}{List Capabilities and Functions}{chapter.23}% 345
+\BOOKMARK [2][-]{subsection.23.2.1}{Late Arrivals \046 List Length}{section.23.2}% 346
+\BOOKMARK [2][-]{subsection.23.2.2}{List Slicing}{section.23.2}% 347
+\BOOKMARK [2][-]{subsection.23.2.3}{Slicing Lists and Strings}{section.23.2}% 348
+\BOOKMARK [2][-]{subsection.23.2.4}{Maintaining Order}{section.23.2}% 349
+\BOOKMARK [2][-]{subsection.23.2.5}{For One and All}{section.23.2}% 350
+\BOOKMARK [2][-]{subsection.23.2.6}{More with 'for'}{section.23.2}% 351
+\BOOKMARK [1][-]{section.23.3}{Dictionaries}{chapter.23}% 352
+\BOOKMARK [2][-]{subsection.23.3.1}{This Next Part is Key}{section.23.3}% 353
+\BOOKMARK [2][-]{subsection.23.3.2}{New Entries}{section.23.3}% 354
+\BOOKMARK [2][-]{subsection.23.3.3}{Changing Your Mind}{section.23.3}% 355
+\BOOKMARK [2][-]{subsection.23.3.4}{It's Dangerous to Go Alone! Take This}{section.23.3}% 356
+\BOOKMARK [0][-]{chapter.24}{Project: A Day at the Supermarket}{part.5}% 357
+\BOOKMARK [1][-]{section.24.1}{Looping with Lists and Dictionaries}{chapter.24}% 358
+\BOOKMARK [2][-]{subsection.24.1.1}{BeFOR We Begin}{section.24.1}% 359
+\BOOKMARK [2][-]{subsection.24.1.2}{This is KEY!}{section.24.1}% 360
+\BOOKMARK [2][-]{subsection.24.1.3}{Control Flow and Looping}{section.24.1}% 361
+\BOOKMARK [2][-]{subsection.24.1.4}{Lists + Functions}{section.24.1}% 362
+\BOOKMARK [2][-]{subsection.24.1.5}{String Looping}{section.24.1}% 363
+\BOOKMARK [1][-]{section.24.2}{Owning a Store}{chapter.24}% 364
+\BOOKMARK [2][-]{subsection.24.2.1}{Your Own Store!}{section.24.2}% 365
+\BOOKMARK [2][-]{subsection.24.2.2}{Investing in Stock}{section.24.2}% 366
+\BOOKMARK [2][-]{subsection.24.2.3}{Keeping Track of the Produce}{section.24.2}% 367
+\BOOKMARK [2][-]{subsection.24.2.4}{Something of Value}{section.24.2}% 368
+\BOOKMARK [1][-]{section.24.3}{Shopping Trip!}{chapter.24}% 369
+\BOOKMARK [2][-]{subsection.24.3.1}{Shopping at the Market}{section.24.3}% 370
+\BOOKMARK [2][-]{subsection.24.3.2}{Making a Purchase}{section.24.3}% 371
+\BOOKMARK [2][-]{subsection.24.3.3}{Stocking Out}{section.24.3}% 372
+\BOOKMARK [2][-]{subsection.24.3.4}{Let's Check Out!}{section.24.3}% 373
+\BOOKMARK [0][-]{chapter.25}{Lists and Dictionaries}{part.5}% 374
+\BOOKMARK [1][-]{section.25.1}{Lists}{chapter.25}% 375
+\BOOKMARK [2][-]{subsection.25.1.1}{Introduction to Lists}{section.25.1}% 376
+\BOOKMARK [2][-]{subsection.25.1.2}{Access by Index}{section.25.1}% 377
+\BOOKMARK [2][-]{subsection.25.1.3}{New Neighbors}{section.25.1}% 378
+\BOOKMARK [1][-]{section.25.2}{List Capabilities and Functions}{chapter.25}% 379
+\BOOKMARK [2][-]{subsection.25.2.1}{Late Arrivals and List Length}{section.25.2}% 380
+\BOOKMARK [2][-]{subsection.25.2.2}{List Slicing}{section.25.2}% 381
+\BOOKMARK [2][-]{subsection.25.2.3}{Slicing Lists and Strings}{section.25.2}% 382
+\BOOKMARK [2][-]{subsection.25.2.4}{Maintaining Order}{section.25.2}% 383
+\BOOKMARK [2][-]{subsection.25.2.5}{For One and All}{section.25.2}% 384
+\BOOKMARK [2][-]{subsection.25.2.6}{More with 'for'}{section.25.2}% 385
+\BOOKMARK [1][-]{section.25.3}{Dictionaries}{chapter.25}% 386
+\BOOKMARK [2][-]{subsection.25.3.1}{This Next Part is Key}{section.25.3}% 387
+\BOOKMARK [2][-]{subsection.25.3.2}{New Entries}{section.25.3}% 388
+\BOOKMARK [2][-]{subsection.25.3.3}{Changing Your Mind}{section.25.3}% 389
+\BOOKMARK [2][-]{subsection.25.3.4}{It's Dangerous to Go Alone! Take This}{section.25.3}% 390
+\BOOKMARK [0][-]{chapter.26}{Project: A Day at Supermarket}{part.5}% 391
+\BOOKMARK [1][-]{section.26.1}{Looping with Lists and Dictionaries}{chapter.26}% 392
+\BOOKMARK [2][-]{subsection.26.1.1}{BeFOR We Begin}{section.26.1}% 393
+\BOOKMARK [2][-]{subsection.26.1.2}{This is KEY!}{section.26.1}% 394
+\BOOKMARK [2][-]{subsection.26.1.3}{Control Flow and Looping}{section.26.1}% 395
+\BOOKMARK [2][-]{subsection.26.1.4}{Lists + Functions}{section.26.1}% 396
+\BOOKMARK [2][-]{subsection.26.1.5}{String Looping}{section.26.1}% 397
+\BOOKMARK [1][-]{section.26.2}{Owning a Store}{chapter.26}% 398
+\BOOKMARK [2][-]{subsection.26.2.1}{Your Own Store!}{section.26.2}% 399
+\BOOKMARK [2][-]{subsection.26.2.2}{Investing in Stock}{section.26.2}% 400
+\BOOKMARK [2][-]{subsection.26.2.3}{Keeping Track of the Produce}{section.26.2}% 401
+\BOOKMARK [2][-]{subsection.26.2.4}{Something of Value}{section.26.2}% 402
+\BOOKMARK [1][-]{section.26.3}{Shopping Trip!}{chapter.26}% 403
+\BOOKMARK [2][-]{subsection.26.3.1}{Shopping at the Market}{section.26.3}% 404
+\BOOKMARK [2][-]{subsection.26.3.2}{Making a Purchase}{section.26.3}% 405
+\BOOKMARK [2][-]{subsection.26.3.3}{Stocking Out}{section.26.3}% 406
+\BOOKMARK [2][-]{subsection.26.3.4}{Let's Check Out!}{section.26.3}% 407
+\BOOKMARK [0][-]{chapter.27}{Student Becomes the Teacher}{part.5}% 408
+\BOOKMARK [1][-]{section.27.1}{Good Morning Class!}{chapter.27}% 409
+\BOOKMARK [2][-]{subsection.27.1.1}{Lesson Number One}{section.27.1}% 410
+\BOOKMARK [2][-]{subsection.27.1.2}{What's the Score?}{section.27.1}% 411
+\BOOKMARK [2][-]{subsection.27.1.3}{Put It Together}{section.27.1}% 412
+\BOOKMARK [2][-]{subsection.27.1.4}{For the Record}{section.27.1}% 413
+\BOOKMARK [1][-]{section.27.2}{Just Average}{chapter.27}% 414
+\BOOKMARK [2][-]{subsection.27.2.1}{It's Okay to be Average}{section.27.2}% 415
+\BOOKMARK [2][-]{subsection.27.2.2}{Just Weight and See}{section.27.2}% 416
+\BOOKMARK [2][-]{subsection.27.2.3}{Sending a Letter}{section.27.2}% 417
+\BOOKMARK [2][-]{subsection.27.2.4}{Part of the Whole}{section.27.2}% 418
+\BOOKMARK [2][-]{subsection.27.2.5}{How is Everybody Doing?}{section.27.2}% 419
+\BOOKMARK [0][-]{chapter.28}{Lists and Functions}{part.5}% 420
+\BOOKMARK [1][-]{section.28.1}{List Recap}{chapter.28}% 421
+\BOOKMARK [2][-]{subsection.28.1.1}{List accessing}{section.28.1}% 422
+\BOOKMARK [2][-]{subsection.28.1.2}{List element modification}{section.28.1}% 423
+\BOOKMARK [2][-]{subsection.28.1.3}{Appending to a list}{section.28.1}% 424
+\BOOKMARK [2][-]{subsection.28.1.4}{Removing elements from lists}{section.28.1}% 425
+\BOOKMARK [1][-]{section.28.2}{Function Recap}{chapter.28}% 426
+\BOOKMARK [2][-]{subsection.28.2.1}{Changing the functionality of a function}{section.28.2}% 427
+\BOOKMARK [2][-]{subsection.28.2.2}{More than one argument}{section.28.2}% 428
+\BOOKMARK [2][-]{subsection.28.2.3}{Arbitrary number of arguments}{section.28.2}% 429
+\BOOKMARK [2][-]{subsection.28.2.4}{Strings in functions}{section.28.2}% 430
+\BOOKMARK [1][-]{section.28.3}{Introduction to Using Functions With Lists}{chapter.28}% 431
+\BOOKMARK [2][-]{subsection.28.3.1}{Passing a list to a function}{section.28.3}% 432
+\BOOKMARK [2][-]{subsection.28.3.2}{Using an element from a list in a function}{section.28.3}% 433
+\BOOKMARK [2][-]{subsection.28.3.3}{Modifying an element of a list in a function}{section.28.3}% 434
+\BOOKMARK [2][-]{subsection.28.3.4}{List manipulation in functions}{section.28.3}% 435
+\BOOKMARK [1][-]{section.28.4}{Using the Entire List in a Function}{chapter.28}% 436
+\BOOKMARK [2][-]{subsection.28.4.1}{Printing out a list item by item in a function}{section.28.4}% 437
+\BOOKMARK [2][-]{subsection.28.4.2}{Modifying each element in a list in a function}{section.28.4}% 438
+\BOOKMARK [2][-]{subsection.28.4.3}{}{section.28.4}% 439
+\BOOKMARK [2][-]{subsection.28.4.4}{Counting up the elements in a list of arbitrary size in a function}{section.28.4}% 440
+\BOOKMARK [2][-]{subsection.28.4.5}{Using strings in lists in functions}{section.28.4}% 441
+\BOOKMARK [1][-]{section.28.5}{Using Lists of Lists in Functions}{chapter.28}% 442
+\BOOKMARK [2][-]{subsection.28.5.1}{Using two lists as two arguments in a function}{section.28.5}% 443
+\BOOKMARK [2][-]{subsection.28.5.2}{Using an arbitrary number of lists in a function}{section.28.5}% 444
+\BOOKMARK [2][-]{subsection.28.5.3}{Using a list of lists in a function}{section.28.5}% 445
+\BOOKMARK [0][-]{chapter.29}{Project: Battleship!}{part.5}% 446
+\BOOKMARK [1][-]{section.29.1}{Don't Sink My Battleship!}{chapter.29}% 447
+\BOOKMARK [2][-]{subsection.29.1.1}{Welcome to Battleship!}{section.29.1}% 448
+\BOOKMARK [2][-]{subsection.29.1.2}{Getting Our Feet Wet}{section.29.1}% 449
+\BOOKMARK [2][-]{subsection.29.1.3}{Make a List}{section.29.1}% 450
+\BOOKMARK [2][-]{subsection.29.1.4}{Check it Twice}{section.29.1}% 451
+\BOOKMARK [2][-]{subsection.29.1.5}{Custom Print}{section.29.1}% 452
+\BOOKMARK [2][-]{subsection.29.1.6}{Printing Pretty}{section.29.1}% 453
+\BOOKMARK [2][-]{subsection.29.1.7}{Hide...}{section.29.1}% 454
+\BOOKMARK [2][-]{subsection.29.1.8}{...and Seek!}{section.29.1}% 455
+\BOOKMARK [2][-]{subsection.29.1.9}{It's Not Cheating\204It's Debugging!}{section.29.1}% 456
+\BOOKMARK [1][-]{section.29.2}{Hit or Miss?}{chapter.29}% 457
+\BOOKMARK [2][-]{subsection.29.2.1}{You win!}{section.29.2}% 458
+\BOOKMARK [2][-]{subsection.29.2.2}{Danger, Will Robinson!!}{section.29.2}% 459
+\BOOKMARK [2][-]{subsection.29.2.3}{Bad Aim}{section.29.2}% 460
+\BOOKMARK [2][-]{subsection.29.2.4}{Not Again!}{section.29.2}% 461
+\BOOKMARK [2][-]{subsection.29.2.5}{Test Run}{section.29.2}% 462
+\BOOKMARK [1][-]{section.29.3}{You Sunk My Battleship!}{chapter.29}% 463
+\BOOKMARK [2][-]{subsection.29.3.1}{Play It, Sam}{section.29.3}% 464
+\BOOKMARK [2][-]{subsection.29.3.2}{Game Over}{section.29.3}% 465
+\BOOKMARK [2][-]{subsection.29.3.3}{A Real Win}{section.29.3}% 466
+\BOOKMARK [2][-]{subsection.29.3.4}{To Your Battle Stations!}{section.29.3}% 467
+\BOOKMARK [2][-]{subsection.29.3.5}{Extra Credit}{section.29.3}% 468
+\BOOKMARK [0][-]{chapter.30}{Loops}{part.5}% 469
+\BOOKMARK [1][-]{section.30.1}{While Loops}{chapter.30}% 470
+\BOOKMARK [2][-]{subsection.30.1.1}{While you're here}{section.30.1}% 471
+\BOOKMARK [2][-]{subsection.30.1.2}{Condition}{section.30.1}% 472
+\BOOKMARK [2][-]{subsection.30.1.3}{While you're at it}{section.30.1}% 473
+\BOOKMARK [2][-]{subsection.30.1.4}{Simple errors}{section.30.1}% 474
+\BOOKMARK [2][-]{subsection.30.1.5}{Infinite loops}{section.30.1}% 475
+\BOOKMARK [2][-]{subsection.30.1.6}{Break}{section.30.1}% 476
+\BOOKMARK [2][-]{subsection.30.1.7}{While / else}{section.30.1}% 477
+\BOOKMARK [2][-]{subsection.30.1.8}{Your own while / else}{section.30.1}% 478
+\BOOKMARK [1][-]{section.30.2}{For Loops}{chapter.30}% 479
+\BOOKMARK [2][-]{subsection.30.2.1}{For your health}{section.30.2}% 480
+\BOOKMARK [2][-]{subsection.30.2.2}{For your hobbies}{section.30.2}% 481
+\BOOKMARK [2][-]{subsection.30.2.3}{For your strings}{section.30.2}% 482
+\BOOKMARK [2][-]{subsection.30.2.4}{For your A}{section.30.2}% 483
+\BOOKMARK [2][-]{subsection.30.2.5}{For your lists}{section.30.2}% 484
+\BOOKMARK [1][-]{section.30.3}{Step Up Your 'For's}{chapter.30}% 485
+\BOOKMARK [0][-]{chapter.31}{Exam Statistics}{part.5}% 486
+\BOOKMARK [0][-]{chapter.32}{Advanced Topics in Python}{part.5}% 487
+\BOOKMARK [0][-]{chapter.33}{Introduction to Classes}{part.5}% 488
+\BOOKMARK [0][-]{chapter.34}{File Input and Output}{part.5}% 489
+\BOOKMARK [0][-]{appendix.A}{Resources}{part.5}% 490

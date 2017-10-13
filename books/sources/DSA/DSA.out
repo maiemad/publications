@@ -1,0 +1,55 @@
+\BOOKMARK [-1][-]{part.1}{I REAL WORLD PROGRAMMING!}{}% 1
+\BOOKMARK [0][-]{chapter.1}{PROGRAMMING LANGUAGES ARE NOT THE SAME}{part.1}% 2
+\BOOKMARK [1][-]{section.1.1}{Basis for Comparing Programming Languages}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.1}{Object Orientation}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.2}{Static vs. Dynamic Typing}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.3}{Generic Classes}{section.1.1}% 6
+\BOOKMARK [2][-]{subsection.1.1.4}{Inheritence}{section.1.1}% 7
+\BOOKMARK [2][-]{subsection.1.1.5}{Feature Renaming}{section.1.1}% 8
+\BOOKMARK [2][-]{subsection.1.1.6}{Method Overloading}{section.1.1}% 9
+\BOOKMARK [2][-]{subsection.1.1.7}{Operator Overloading}{section.1.1}% 10
+\BOOKMARK [2][-]{subsection.1.1.8}{Higher Order Functions \046 Lexical Closures}{section.1.1}% 11
+\BOOKMARK [2][-]{subsection.1.1.9}{Garbage Collection}{section.1.1}% 12
+\BOOKMARK [2][-]{subsection.1.1.10}{Uniform Access}{section.1.1}% 13
+\BOOKMARK [2][-]{subsection.1.1.11}{Class Variables/Methods}{section.1.1}% 14
+\BOOKMARK [2][-]{subsection.1.1.12}{Reflection}{section.1.1}% 15
+\BOOKMARK [2][-]{subsection.1.1.13}{Access Control}{section.1.1}% 16
+\BOOKMARK [2][-]{subsection.1.1.14}{Design by Contract}{section.1.1}% 17
+\BOOKMARK [2][-]{subsection.1.1.15}{Multithreading}{section.1.1}% 18
+\BOOKMARK [2][-]{subsection.1.1.16}{Regular Expressions}{section.1.1}% 19
+\BOOKMARK [2][-]{subsection.1.1.17}{Pointer Arithmetic}{section.1.1}% 20
+\BOOKMARK [2][-]{subsection.1.1.18}{Language Integration}{section.1.1}% 21
+\BOOKMARK [2][-]{subsection.1.1.19}{Built-In Security}{section.1.1}% 22
+\BOOKMARK [1][-]{section.1.2}{Comparing based on Performance and Optimization}{chapter.1}% 23
+\BOOKMARK [1][-]{section.1.3}{Programming Languages of Choice}{chapter.1}% 24
+\BOOKMARK [2][-]{subsection.1.3.1}{Why C\043?}{section.1.3}% 25
+\BOOKMARK [2][-]{subsection.1.3.2}{Why Iron Python?}{section.1.3}% 26
+\BOOKMARK [1][-]{section.1.4}{Teach Yourself Programming in Ten Years}{chapter.1}% 27
+\BOOKMARK [0][-]{chapter.2}{QUICK TOUR OF C\043}{part.1}% 28
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 29
+\BOOKMARK [1][-]{section.2.2}{Namespaces}{chapter.2}% 30
+\BOOKMARK [1][-]{section.2.3}{Classes}{chapter.2}% 31
+\BOOKMARK [1][-]{section.2.4}{Attributes}{chapter.2}% 32
+\BOOKMARK [1][-]{section.2.5}{Interfaces}{chapter.2}% 33
+\BOOKMARK [1][-]{section.2.6}{Enums}{chapter.2}% 34
+\BOOKMARK [1][-]{section.2.7}{Struct}{chapter.2}% 35
+\BOOKMARK [1][-]{section.2.8}{Methods}{chapter.2}% 36
+\BOOKMARK [2][-]{subsection.2.8.1}{Virtual and override Methods}{section.2.8}% 37
+\BOOKMARK [2][-]{subsection.2.8.2}{Other method modifiers}{section.2.8}% 38
+\BOOKMARK [2][-]{subsection.2.8.3}{Parameter passing}{section.2.8}% 39
+\BOOKMARK [1][-]{section.2.9}{Method overloading}{chapter.2}% 40
+\BOOKMARK [1][-]{section.2.10}{Loops}{chapter.2}% 41
+\BOOKMARK [2][-]{subsection.2.10.1}{while loop}{section.2.10}% 42
+\BOOKMARK [2][-]{subsection.2.10.2}{do loop}{section.2.10}% 43
+\BOOKMARK [2][-]{subsection.2.10.3}{for loop}{section.2.10}% 44
+\BOOKMARK [2][-]{subsection.2.10.4}{foreach loop}{section.2.10}% 45
+\BOOKMARK [1][-]{section.2.11}{if}{chapter.2}% 46
+\BOOKMARK [1][-]{section.2.12}{switch}{chapter.2}% 47
+\BOOKMARK [1][-]{section.2.13}{try/catch/finally and throw}{chapter.2}% 48
+\BOOKMARK [1][-]{section.2.14}{null}{chapter.2}% 49
+\BOOKMARK [1][-]{section.2.15}{Lab Excercises}{chapter.2}% 50
+\BOOKMARK [0][-]{chapter.3}{IRON PYTHON}{part.1}% 51
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 52
+\BOOKMARK [1][-]{section.3.2}{A New Language for .Net}{chapter.3}% 53
+\BOOKMARK [1][-]{section.3.3}{What is Iron Python?}{chapter.3}% 54
+\BOOKMARK [2][-]{subsection.3.3.1}{Assemblies}{section.3.3}% 55

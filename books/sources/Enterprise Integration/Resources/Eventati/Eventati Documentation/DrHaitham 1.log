@@ -1,0 +1,1702 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.9.14)  2 DEC 2012 12:00
+entering extended mode
+**DrHaitham*1.tex
+
+("E:\From My PC\Documentation\Documentation\DR Haitham Today\LateX\Eventati Doc
+umentation\DrHaitham 1.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks17
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+
+LaTeX Warning: Unused global option(s):
+    [class].
+
+
+("E:\From My PC\Documentation\Documentation\DR Haitham Today\LateX\Eventati Doc
+umentation\DrHaitham 1.aux"
+
+LaTeX Warning: Label `fg:6-13' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen115
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks23
+) [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+
+ []
+
+[3
+
+]
+("E:\From My PC\Documentation\Documentation\DR Haitham Today\LateX\Eventati Doc
+umentation\DrHaitham 1.toc"
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [4
+
+] [5])
+\tf@toc=\write3
+ [6]
+("E:\From My PC\Documentation\Documentation\DR Haitham Today\LateX\Eventati Doc
+umentation\DrHaitham 1.lof" [7
+
+
+] [8] [9])
+\tf@lof=\write4
+ [10]
+("E:\From My PC\Documentation\Documentation\DR Haitham Today\LateX\Eventati Doc
+umentation\DrHaitham 1.lot")
+\tf@lot=\write5
+ [11
+
+
+] [12
+
+]
+Chapter 1.
+<1-1.png, id=41, 336.50719pt x 201.75375pt>
+File: 1-1.png Graphic file (type png)
+ <use 1-1.png>
+Package pdftex.def Info: 1-1.png used on input line 43.
+(pdftex.def)             Requested size: 201.90585pt x 121.05318pt.
+
+Overfull \hbox (6.90585pt too wide) in paragraph at lines 43--44
+ [][] 
+ []
+
+<1-2.jpg, id=42, 615.4995pt x 442.87056pt>
+File: 1-2.jpg Graphic file (type jpg)
+ <use 1-2.jpg>
+Package pdftex.def Info: 1-2.jpg used on input line 50.
+(pdftex.def)             Requested size: 195.0pt x 140.30911pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 41--54
+[][]   [] 
+ []
+
+[1
+
+
+]
+Overfull \hbox (6.88559pt too wide) in paragraph at lines 66--83
+\OT1/cmr/bx/n/12 Chapter Two: \OT1/cmr/m/n/12 Method-ol-ogy has been pre-sented
+ Ag-ile Method-olo-gies, Scrum,
+ []
+
+[2 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati D
+ocumentation/1-1.png> <E:/From My PC/Documentation/Documentation/DR Haitham Tod
+ay/LateX/Eventati Documentation/1-2.jpg>] [3] [4
+
+]
+Chapter 2.
+<2-1.jpg, id=56, 205.568pt x 158.79324pt>
+File: 2-1.jpg Graphic file (type jpg)
+ <use 2-1.jpg>
+Package pdftex.def Info: 2-1.jpg used on input line 89.
+(pdftex.def)             Requested size: 411.13495pt x 317.5857pt.
+ [5
+
+] [6 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati
+ Documentation/2-1.jpg>] <2-2.png, id=63, 719.68875pt x 410.2828pt>
+File: 2-2.png Graphic file (type png)
+ <use 2-2.png>
+Package pdftex.def Info: 2-2.png used on input line 108.
+(pdftex.def)             Requested size: 719.687pt x 410.2818pt.
+
+
+LaTeX Warning: Float too large for page by 18.29199pt on input line 112.
+
+<2-3.png, id=64, 529.98pt x 647.41875pt>
+File: 2-3.png Graphic file (type png)
+ <use 2-3.png>
+Package pdftex.def Info: 2-3.png used on input line 116.
+(pdftex.def)             Requested size: 207.06335pt x 252.94499pt.
+
+Overfull \hbox (12.06335pt too wide) in paragraph at lines 116--117
+ [][] 
+ []
+
+<2-4.png, id=66, 531.9875pt x 621.32124pt>
+File: 2-4.png Graphic file (type png)
+ <use 2-4.png>
+Package pdftex.def Info: 2-4.png used on input line 123.
+(pdftex.def)             Requested size: 216.57396pt x 252.94499pt.
+
+Overfull \hbox (21.57396pt too wide) in paragraph at lines 123--124
+ [][] 
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 124--124
+[]\OT1/cmr/m/n/12 Figure 2.4: Prod-uct Back-log Of
+ []
+
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 114--127
+[][]   [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--129
+
+ []
+
+[7] [8 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventa
+ti Documentation/2-2.png>] [9 <E:/From My PC/Documentation/Documentation/DR Hai
+tham Today/LateX/Eventati Documentation/2-3.png> <E:/From My PC/Documentation/D
+ocumentation/DR Haitham Today/LateX/Eventati Documentation/2-4.png>]
+Overfull \hbox (34.2317pt too wide) in paragraph at lines 148--149
+\OT1/cmr/m/n/12 de-ter-mined tasks to next meet-ing we needed a Sur-vey ,Class,
+Sequence,Activity
+ []
+
+[10] <2-5.jpg, id=82, 2085.7925pt x 897.3525pt>
+File: 2-5.jpg Graphic file (type jpg)
+ <use 2-5.jpg>
+Package pdftex.def Info: 2-5.jpg used on input line 162.
+(pdftex.def)             Requested size: 2085.78743pt x 897.3503pt.
+
+
+LaTeX Warning: Float too large for page by 35.76591pt on input line 166.
+
+<2-6.jpg, id=83, 2017.5375pt x 1108.14pt>
+File: 2-6.jpg Graphic file (type jpg)
+ <use 2-6.jpg>
+Package pdftex.def Info: 2-6.jpg used on input line 169.
+(pdftex.def)             Requested size: 2017.53261pt x 1108.1373pt.
+
+<2-7.jpg, id=84, 1783.66376pt x 917.4275pt>
+File: 2-7.jpg Graphic file (type jpg)
+ <use 2-7.jpg>
+Package pdftex.def Info: 2-7.jpg used on input line 176.
+(pdftex.def)             Requested size: 1783.65942pt x 917.42528pt.
+
+
+LaTeX Warning: Float too large for page by 9.85368pt on input line 180.
+
+<2-8.jpg, id=85, 2055.68pt x 722.7pt>
+File: 2-8.jpg Graphic file (type jpg)
+ <use 2-8.jpg>
+Package pdftex.def Info: 2-8.jpg used on input line 183.
+(pdftex.def)             Requested size: 2055.675pt x 722.69823pt.
+
+
+LaTeX Warning: Float too large for page by 25.9919pt on input line 187.
+
+<2-9.jpg, id=86, 1669.23625pt x 438.63875pt>
+File: 2-9.jpg Graphic file (type jpg)
+ <use 2-9.jpg>
+Package pdftex.def Info: 2-9.jpg used on input line 190.
+(pdftex.def)             Requested size: 1669.2322pt x 438.63766pt.
+
+
+LaTeX Warning: Float too large for page by 25.98732pt on input line 194.
+
+<2-10.jpg, id=87, 1565.85pt x 1270.7475pt>
+File: 2-10.jpg Graphic file (type jpg)
+ <use 2-10.jpg>
+Package pdftex.def Info: 2-10.jpg used on input line 197.
+(pdftex.def)             Requested size: 1565.84619pt x 1270.7444pt.
+
+<2-11.jpg, id=88, 1907.125pt x 506.89375pt>
+File: 2-11.jpg Graphic file (type jpg)
+ <use 2-11.jpg>
+Package pdftex.def Info: 2-11.jpg used on input line 204.
+(pdftex.def)             Requested size: 1907.12036pt x 506.89252pt.
+
+
+LaTeX Warning: Float too large for page by 59.60991pt on input line 208.
+
+<2-12.jpg, id=89, 1367.1075pt x 500.87125pt>
+File: 2-12.jpg Graphic file (type jpg)
+ <use 2-12.jpg>
+Package pdftex.def Info: 2-12.jpg used on input line 211.
+(pdftex.def)             Requested size: 1367.10417pt x 500.87001pt.
+
+
+LaTeX Warning: Float too large for page by 0.15291pt on input line 215.
+
+<2-13.jpg, id=90, 1634.105pt x 721.69624pt>
+File: 2-13.jpg Graphic file (type jpg)
+ <use 2-13.jpg>
+Package pdftex.def Info: 2-13.jpg used on input line 218.
+(pdftex.def)             Requested size: 1634.10103pt x 721.69449pt.
+
+
+LaTeX Warning: Float too large for page by 102.38632pt on input line 222.
+
+<2-14.jpg, id=91, 1880.02374pt x 815.045pt>
+File: 2-14.jpg Graphic file (type jpg)
+ <use 2-14.jpg>
+Package pdftex.def Info: 2-14.jpg used on input line 225.
+(pdftex.def)             Requested size: 1880.01918pt x 815.043pt.
+
+
+LaTeX Warning: Float too large for page by 72.94771pt on input line 229.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 235.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 235.
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--249
+
+ []
+
+[11] [12 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Even
+tati Documentation/2-5.jpg>] [13 <E:/From My PC/Documentation/Documentation/DR 
+Haitham Today/LateX/Eventati Documentation/2-6.jpg>] [14 <E:/From My PC/Documen
+tation/Documentation/DR Haitham Today/LateX/Eventati Documentation/2-7.jpg>]
+[15 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/2-8.jpg>] [16 <E:/From My PC/Documentation/Documentation/DR Haith
+am Today/LateX/Eventati Documentation/2-9.jpg>] [17 <E:/From My PC/Documentatio
+n/Documentation/DR Haitham Today/LateX/Eventati Documentation/2-10.jpg>]
+[18 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/2-11.jpg>] [19 <E:/From My PC/Documentation/Documentation/DR Hait
+ham Today/LateX/Eventati Documentation/2-12.jpg>] [20 <E:/From My PC/Documentat
+ion/Documentation/DR Haitham Today/LateX/Eventati Documentation/2-13.jpg>]
+[21 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/2-14.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 249--251
+
+ []
+
+[22]
+Chapter 3.
+<3-1.png, id=131, 153.57375pt x 52.69687pt>
+File: 3-1.png Graphic file (type png)
+ <use 3-1.png>
+Package pdftex.def Info: 3-1.png used on input line 262.
+(pdftex.def)             Requested size: 138.21509pt x 47.42673pt.
+
+<3-2.jpg, id=132, 435.12563pt x 146.04562pt>
+File: 3-2.jpg Graphic file (type jpg)
+ <use 3-2.jpg>
+Package pdftex.def Info: 3-2.jpg used on input line 269.
+(pdftex.def)             Requested size: 195.0pt x 65.45026pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 260--273
+[][]   [] 
+ []
+
+[23
+
+
+ <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Doc
+umentation/3-1.png> <E:/From My PC/Documentation/Documentation/DR Haitham Today
+/LateX/Eventati Documentation/3-2.jpg>] [24]
+<3-3.png, id=140, 357.58594pt x 355.3275pt>
+File: 3-3.png Graphic file (type png)
+ <use 3-3.png>
+Package pdftex.def Info: 3-3.png used on input line 293.
+(pdftex.def)             Requested size: 327.29158pt x 325.215pt.
+
+<3-13.png, id=141, 280.04625pt x 374.14781pt>
+File: 3-13.png Graphic file (type png)
+ <use 3-13.png>
+Package pdftex.def Info: 3-13.png used on input line 302.
+(pdftex.def)             Requested size: 135.23256pt x 180.67499pt.
+
+<3-14.png, id=142, 484.81125pt x 388.45125pt>
+File: 3-14.png Graphic file (type png)
+ <use 3-14.png>
+Package pdftex.def Info: 3-14.png used on input line 312.
+(pdftex.def)             Requested size: 270.59734pt x 216.81pt.
+
+<3-4.png, id=143, 344.03531pt x 271.76532pt>
+File: 3-4.png Graphic file (type png)
+ <use 3-4.png>
+Package pdftex.def Info: 3-4.png used on input line 323.
+(pdftex.def)             Requested size: 274.47794pt x 216.81pt.
+
+<3-5.png, id=144, 436.63126pt x 118.19156pt>
+File: 3-5.png Graphic file (type png)
+ <use 3-5.png>
+Package pdftex.def Info: 3-5.png used on input line 336.
+(pdftex.def)             Requested size: 266.99094pt x 72.26999pt.
+
+Overfull \hbox (21.47212pt too wide) in paragraph at lines 329--341
+\OT1/cmr/m/n/12 thing to note is that we split it over three Python files (mod-
+els.py,views.py,urls.py)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--341
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--341
+
+ []
+
+[25 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/3-3.png>] [26 <E:/From My PC/Documentation/Documentation/DR Haith
+am Today/LateX/Eventati Documentation/3-13.png> <E:/From My PC/Documentation/Do
+cumentation/DR Haitham Today/LateX/Eventati Documentation/3-14.png>]
+<3-6.png, id=153, 436.63126pt x 101.62968pt>
+File: 3-6.png Graphic file (type png)
+ <use 3-6.png>
+Package pdftex.def Info: 3-6.png used on input line 346.
+(pdftex.def)             Requested size: 310.50337pt x 72.26999pt.
+
+<3-7.png, id=154, 379.4175pt x 131.74219pt>
+File: 3-7.png Graphic file (type png)
+ <use 3-7.png>
+Package pdftex.def Info: 3-7.png used on input line 356.
+(pdftex.def)             Requested size: 312.21855pt x 108.405pt.
+
+<3-8.png, id=155, 331.2375pt x 181.42781pt>
+File: 3-8.png Graphic file (type png)
+ <use 3-8.png>
+Package pdftex.def Info: 3-8.png used on input line 366.
+(pdftex.def)             Requested size: 329.87202pt x 180.67499pt.
+ [27 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati
+ Documentation/3-4.png> <E:/From My PC/Documentation/Documentation/DR Haitham T
+oday/LateX/Eventati Documentation/3-5.png>] [28 <E:/From My PC/Documentation/Do
+cumentation/DR Haitham Today/LateX/Eventati Documentation/3-6.png> <E:/From My 
+PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Documentation/3-
+7.png> <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventa
+ti Documentation/3-8.png>] <3-9.png, id=163, 193.47281pt x 85.82062pt>
+File: 3-9.png Graphic file (type png)
+ <use 3-9.png>
+Package pdftex.def Info: 3-9.png used on input line 390.
+(pdftex.def)             Requested size: 162.92345pt x 72.26999pt.
+ [29 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati
+ Documentation/3-9.png>] [30] <3-10.png, id=170, 396.7322pt x 224.33812pt>
+File: 3-10.png Graphic file (type png)
+ <use 3-10.png>
+Package pdftex.def Info: 3-10.png used on input line 423.
+(pdftex.def)             Requested size: 218.20337pt x 123.38634pt.
+
+Overfull \hbox (23.20337pt too wide) in paragraph at lines 423--424
+ [][] 
+ []
+
+<3-11.png, id=171, 481.8pt x 298.86656pt>
+File: 3-11.png Graphic file (type png)
+ <use 3-11.png>
+Package pdftex.def Info: 3-11.png used on input line 430.
+(pdftex.def)             Requested size: 195.0pt x 120.95819pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 421--434
+[][]   [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
+
+ []
+
+[31 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/3-10.png> <E:/From My PC/Documentation/Documentation/DR Haitham T
+oday/LateX/Eventati Documentation/3-11.png>]
+<3-12.png, id=176, 645.91313pt x 566.115pt>
+File: 3-12.png Graphic file (type png)
+ <use 3-12.png>
+Package pdftex.def Info: 3-12.png used on input line 454.
+(pdftex.def)             Requested size: 288.59836pt x 252.94499pt.
+ [32 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati
+ Documentation/3-12.png>]
+Chapter 4.
+<4-0.png, id=180, 486.31688pt x 328.22626pt>
+File: 4-0.png Graphic file (type png)
+ <use 4-0.png>
+Package pdftex.def Info: 4-0.png used on input line 473.
+(pdftex.def)             Requested size: 374.77681pt x 252.94499pt.
+ [33
+
+
+]
+<4-1.png, id=184, 388.45125pt x 295.85532pt>
+File: 4-1.png Graphic file (type png)
+ <use 4-1.png>
+Package pdftex.def Info: 4-1.png used on input line 483.
+(pdftex.def)             Requested size: 237.22755pt x 180.67499pt.
+
+<4-2.png, id=185, 1628.33344pt x 662.475pt>
+File: 4-2.png Graphic file (type png)
+ <use 4-2.png>
+Package pdftex.def Info: 4-2.png used on input line 493.
+(pdftex.def)             Requested size: 1628.32948pt x 662.47339pt.
+
+
+LaTeX Warning: Float too large for page by 72.96317pt on input line 497.
+
+<4-3.png, id=186, 530.98375pt x 1049.9225pt>
+File: 4-3.png Graphic file (type png)
+ <use 4-3.png>
+Package pdftex.def Info: 4-3.png used on input line 519.
+(pdftex.def)             Requested size: 255.84966pt x 505.89pt.
+
+<4-4.png, id=187, 492.33937pt x 513.41812pt>
+File: 4-4.png Graphic file (type png)
+ <use 4-4.png>
+Package pdftex.def Info: 4-4.png used on input line 531.
+(pdftex.def)             Requested size: 289.08789pt x 505.89609pt.
+
+<4-5.png, id=188, 1324.95pt x 714.41907pt>
+File: 4-5.png Graphic file (type png)
+ <use 4-5.png>
+Package pdftex.def Info: 4-5.png used on input line 544.
+(pdftex.def)             Requested size: 469.75499pt x 253.28806pt.
+
+
+LaTeX Warning: Float too large for page by 29.3955pt on input line 548.
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 557--557
+[]\OT1/cmr/m/n/12 Information that makes time line be up-dated or
+ []
+
+[34 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/4-0.png>] [35 <E:/From My PC/Documentation/Documentation/DR Haith
+am Today/LateX/Eventati Documentation/4-1.png>] [36 <E:/From My PC/Documentatio
+n/Documentation/DR Haitham Today/LateX/Eventati Documentation/4-2.png>]
+[37 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/4-3.png>] [38 <E:/From My PC/Documentation/Documentation/DR Haith
+am Today/LateX/Eventati Documentation/4-4.png>]
+<4-6.png, id=208, 369.38pt x 818.05624pt>
+File: 4-6.png Graphic file (type png)
+ <use 4-6.png>
+Package pdftex.def Info: 4-6.png used on input line 571.
+(pdftex.def)             Requested size: 228.4327pt x 505.89pt.
+
+<4-7.png, id=209, 484.81125pt x 418.56375pt>
+File: 4-7.png Graphic file (type png)
+ <use 4-7.png>
+Package pdftex.def Info: 4-7.png used on input line 581.
+(pdftex.def)             Requested size: 289.09137pt x 505.88887pt.
+
+<4-8.png, id=210, 1021.56656pt x 604.50844pt>
+File: 4-8.png Graphic file (type png)
+ <use 4-8.png>
+Package pdftex.def Info: 4-8.png used on input line 595.
+(pdftex.def)             Requested size: 469.75499pt x 277.97578pt.
+
+
+LaTeX Warning: Float too large for page by 29.3955pt on input line 599.
+
+<4-9.png, id=211, 401.5pt x 789.95125pt>
+File: 4-9.png Graphic file (type png)
+ <use 4-9.png>
+Package pdftex.def Info: 4-9.png used on input line 620.
+(pdftex.def)             Requested size: 257.12453pt x 505.89pt.
+
+<4-10.png, id=212, 496.10344pt x 560.0925pt>
+File: 4-10.png Graphic file (type png)
+ <use 4-10.png>
+Package pdftex.def Info: 4-10.png used on input line 630.
+(pdftex.def)             Requested size: 289.08006pt x 505.9075pt.
+
+<4-11.png, id=213, 475.02469pt x 338.01282pt>
+File: 4-11.png Graphic file (type png)
+ <use 4-11.png>
+Package pdftex.def Info: 4-11.png used on input line 641.
+(pdftex.def)             Requested size: 406.26628pt x 289.07999pt.
+
+Overfull \hbox (58.27527pt too wide) in paragraph at lines 641--642
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 61.66371pt on input line 645.
+
+
+Underfull \vbox (badness 1728) has occurred while \output is active []
+
+ [39]
+[40 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/4-5.png>] [41 <E:/From My PC/Documentation/Documentation/DR Haith
+am Today/LateX/Eventati Documentation/4-6.png>] [42 <E:/From My PC/Documentatio
+n/Documentation/DR Haitham Today/LateX/Eventati Documentation/4-7.png>]
+[43 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/4-8.png>] [44 <E:/From My PC/Documentation/Documentation/DR Haith
+am Today/LateX/Eventati Documentation/4-9.png>] [45 <E:/From My PC/Documentatio
+n/Documentation/DR Haitham Today/LateX/Eventati Documentation/4-10.png>]
+<4-12.png, id=240, 483.30562pt x 284.56313pt>
+File: 4-12.png Graphic file (type png)
+ <use 4-12.png>
+Package pdftex.def Info: 4-12.png used on input line 655.
+(pdftex.def)             Requested size: 368.25267pt x 216.81pt.
+
+
+LaTeX Warning: Float too large for page by 34.37682pt on input line 659.
+
+<4-13.png, id=241, 480.29437pt x 298.86656pt>
+File: 4-13.png Graphic file (type png)
+ <use 4-13.png>
+Package pdftex.def Info: 4-13.png used on input line 664.
+(pdftex.def)             Requested size: 348.42801pt x 216.81pt.
+
+Overfull \hbox (22.17006pt too wide) in paragraph at lines 664--665
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 91.10127pt on input line 668.
+
+<4-14.png, id=242, 475.7775pt x 404.26031pt>
+File: 4-14.png Graphic file (type png)
+ <use 4-14.png>
+Package pdftex.def Info: 4-14.png used on input line 672.
+(pdftex.def)             Requested size: 297.69414pt x 252.94499pt.
+
+<4-15.png, id=243, 644.4075pt x 307.1475pt>
+File: 4-15.png Graphic file (type png)
+ <use 4-15.png>
+Package pdftex.def Info: 4-15.png used on input line 682.
+(pdftex.def)             Requested size: 379.06635pt x 180.67499pt.
+
+Overfull \hbox (3.69958pt too wide) in paragraph at lines 682--683
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+[47 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/4-11.png>] [48 <E:/From My PC/Documentation/Documentation/DR Hait
+ham Today/LateX/Eventati Documentation/4-12.png>] [49 <E:/From My PC/Documentat
+ion/Documentation/DR Haitham Today/LateX/Eventati Documentation/4-13.png>]
+[50 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/4-14.png> <E:/From My PC/Documentation/Documentation/DR Haitham T
+oday/LateX/Eventati Documentation/4-15.png>]
+<4-16.png, id=260, 472.76625pt x 491.58656pt>
+File: 4-16.png Graphic file (type png)
+ <use 4-16.png>
+Package pdftex.def Info: 4-16.png used on input line 709.
+(pdftex.def)             Requested size: 347.52591pt x 361.34999pt.
+
+<4-17.png, id=261, 472.01344pt x 92.59593pt>
+File: 4-17.png Graphic file (type png)
+ <use 4-17.png>
+Package pdftex.def Info: 4-17.png used on input line 726.
+(pdftex.def)             Requested size: 368.40668pt x 72.26999pt.
+
+<4-18.png, id=262, 408.77719pt x 298.11375pt>
+File: 4-18.png Graphic file (type png)
+ <use 4-18.png>
+Package pdftex.def Info: 4-18.png used on input line 737.
+(pdftex.def)             Requested size: 297.2946pt x 216.81pt.
+
+<4-19.png, id=263, 417.05812pt x 174.6525pt>
+File: 4-19.png Graphic file (type png)
+ <use 4-19.png>
+Package pdftex.def Info: 4-19.png used on input line 747.
+(pdftex.def)             Requested size: 345.17177pt x 144.54pt.
+
+<4-20.png, id=264, 233.37187pt x 120.45pt>
+File: 4-20.png Graphic file (type png)
+ <use 4-20.png>
+Package pdftex.def Info: 4-20.png used on input line 757.
+(pdftex.def)             Requested size: 175.03203pt x 90.3375pt.
+ [51] [52 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eve
+ntati Documentation/4-16.png>] [53 <E:/From My PC/Documentation/Documentation/D
+R Haitham Today/LateX/Eventati Documentation/4-17.png> <E:/From My PC/Documenta
+tion/Documentation/DR Haitham Today/LateX/Eventati Documentation/4-18.png>] [54
+ <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Doc
+umentation/4-19.png> <E:/From My PC/Documentation/Documentation/DR Haitham Toda
+y/LateX/Eventati Documentation/4-20.png>] <4-21.png, id=277, 499.11469pt x 443.
+40656pt>
+File: 4-21.png Graphic file (type png)
+
+<use 4-21.png>
+Package pdftex.def Info: 4-21.png used on input line 779.
+(pdftex.def)             Requested size: 284.72679pt x 252.94499pt.
+ <4-22.png, id=278, 472.01344pt x 405.76593pt>
+File: 4-22.png Graphic file (type png)
+ <use 4-22.png>
+Package pdftex.def Info: 4-22.png used on input line 786.
+(pdftex.def)             Requested size: 252.2114pt x 216.81pt.
+
+<4-23.png, id=279, 239.39438pt x 289.08pt>
+File: 4-23.png Graphic file (type png)
+ <use 4-23.png>
+Package pdftex.def Info: 4-23.png used on input line 795.
+(pdftex.def)             Requested size: 149.62111pt x 180.67499pt.
+
+<4-24.png, id=280, 493.845pt x 219.06844pt>
+File: 4-24.png Graphic file (type png)
+ <use 4-24.png>
+Package pdftex.def Info: 4-24.png used on input line 806.
+(pdftex.def)             Requested size: 407.29904pt x 180.67499pt.
+
+Overfull \hbox (31.93228pt too wide) in paragraph at lines 806--807
+ [] 
+ []
+
+<4-25.png, id=281, 463.7325pt x 539.76656pt>
+File: 4-25.png Graphic file (type png)
+ <use 4-25.png>
+Package pdftex.def Info: 4-25.png used on input line 814.
+(pdftex.def)             Requested size: 248.35977pt x 289.07999pt.
+
+<4-26.png, id=282, 503.63156pt x 258.21469pt>
+File: 4-26.png Graphic file (type png)
+ <use 4-26.png>
+Package pdftex.def Info: 4-26.png used on input line 825.
+(pdftex.def)             Requested size: 387.6438pt x 198.7425pt.
+
+Overfull \hbox (12.27704pt too wide) in paragraph at lines 825--826
+ [] 
+ []
+
+[55] [56 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Even
+tati Documentation/4-21.png> <E:/From My PC/Documentation/Documentation/DR Hait
+ham Today/LateX/Eventati Documentation/4-22.png>] [57 <E:/From My PC/Documentat
+ion/Documentation/DR Haitham Today/LateX/Eventati Documentation/4-23.png> <E:/F
+rom My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Documenta
+tion/4-24.png>] [58 <E:/From My PC/Documentation/Documentation/DR Haitham Today
+/LateX/Eventati Documentation/4-25.png> <E:/From My PC/Documentation/Documentat
+ion/DR Haitham Today/LateX/Eventati Documentation/4-26.png>] [59]
+<4-27.png, id=301, 421.575pt x 57.96657pt>
+File: 4-27.png Graphic file (type png)
+ <use 4-27.png>
+Package pdftex.def Info: 4-27.png used on input line 862.
+(pdftex.def)             Requested size: 262.80185pt x 36.135pt.
+ [60 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati
+ Documentation/4-27.png>]
+Chapter 5.
+<5-1.png, id=305, 1003.49907pt x 827.34094pt>
+File: 5-1.png Graphic file (type png)
+ <use 5-1.png>
+Package pdftex.def Info: 5-1.png used on input line 890.
+(pdftex.def)             Requested size: 469.75499pt x 387.29752pt.
+
+Overfull \hbox (101.30891pt too wide) in paragraph at lines 890--891
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 30.3955pt on input line 894.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62]
+[63 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/5-1.png>] <5-2.png, id=317, 533.995pt x 833.1125pt>
+File: 5-2.png Graphic file (type png)
+
+<use 5-2.png>
+Package pdftex.def Info: 5-2.png used on input line 927.
+(pdftex.def)             Requested size: 324.26167pt x 505.89pt.
+ <5-3.png, id=318, 458.46281pt x 432.11438pt>
+File: 5-3.png Graphic file (type png)
+ <use 5-3.png>
+Package pdftex.def Info: 5-3.png used on input line 941.
+(pdftex.def)             Requested size: 364.22435pt x 343.28249pt.
+
+<5-4.png, id=319, 678.28406pt x 505.89pt>
+File: 5-4.png Graphic file (type png)
+ <use 5-4.png>
+Package pdftex.def Info: 5-4.png used on input line 952.
+(pdftex.def)             Requested size: 484.49333pt x 361.34999pt.
+
+Overfull \hbox (109.12657pt too wide) in paragraph at lines 952--953
+ [] 
+ []
+
+<5-5.png, id=320, 709.14937pt x 704.6325pt>
+File: 5-5.png Graphic file (type png)
+ <use 5-5.png>
+Package pdftex.def Info: 5-5.png used on input line 963.
+(pdftex.def)             Requested size: 289.08673pt x 498.65831pt.
+
+<5-6.png, id=321, 887.56593pt x 1199.98312pt>
+File: 5-6.png Graphic file (type png)
+ <use 5-6.png>
+Package pdftex.def Info: 5-6.png used on input line 974.
+(pdftex.def)             Requested size: 454.37262pt x 614.295pt.
+
+Overfull \hbox (79.00586pt too wide) in paragraph at lines 974--975
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 66.5283pt on input line 978.
+
+<5-7.png, id=322, 523.9575pt x 301.8778pt>
+File: 5-7.png Graphic file (type png)
+ <use 5-7.png>
+Package pdftex.def Info: 5-7.png used on input line 985.
+(pdftex.def)             Requested size: 439.026pt x 252.94499pt.
+
+Overfull \hbox (63.65924pt too wide) in paragraph at lines 985--986
+ [] 
+ []
+
+[64] [65 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Even
+tati Documentation/5-2.png>] [66 <E:/From My PC/Documentation/Documentation/DR 
+Haitham Today/LateX/Eventati Documentation/5-3.png>] [67 <E:/From My PC/Documen
+tation/Documentation/DR Haitham Today/LateX/Eventati Documentation/5-4.png>]
+[68 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/5-5.png>] [69 <E:/From My PC/Documentation/Documentation/DR Haith
+am Today/LateX/Eventati Documentation/5-6.png>] [70 <E:/From My PC/Documentatio
+n/Documentation/DR Haitham Today/LateX/Eventati Documentation/5-7.png>]
+Chapter 6.
+[71
+
+
+] <6-1.png, id=351, 286.06876pt x 120.45pt>
+File: 6-1.png Graphic file (type png)
+ <use 6-1.png>
+Package pdftex.def Info: 6-1.png used on input line 1004.
+(pdftex.def)             Requested size: 257.46823pt x 108.405pt.
+
+<6-2.png, id=352, 313.17pt x 103.13531pt>
+File: 6-2.png Graphic file (type png)
+ <use 6-2.png>
+Package pdftex.def Info: 6-2.png used on input line 1012.
+(pdftex.def)             Requested size: 187.90344pt x 61.88165pt.
+
+<6-3.png, id=353, 176.15813pt x 76.03406pt>
+File: 6-3.png Graphic file (type png)
+ <use 6-3.png>
+Package pdftex.def Info: 6-3.png used on input line 1019.
+(pdftex.def)             Requested size: 195.0pt x 84.16675pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 1010--1023
+[][]   [] 
+ []
+
+<6-4.png, id=354, 196.48407pt x 105.39375pt>
+File: 6-4.png Graphic file (type png)
+ <use 6-4.png>
+Package pdftex.def Info: 6-4.png used on input line 1027.
+(pdftex.def)             Requested size: 117.89134pt x 63.23672pt.
+
+<6-5.png, id=355, 222.07968pt x 48.18pt>
+File: 6-5.png Graphic file (type png)
+ <use 6-5.png>
+Package pdftex.def Info: 6-5.png used on input line 1034.
+(pdftex.def)             Requested size: 195.0pt x 42.30513pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 1025--1038
+[][]   [] 
+ []
+
+<6-6.png, id=356, 770.88pt x 828.09375pt>
+File: 6-6.png Graphic file (type png)
+ <use 6-6.png>
+Package pdftex.def Info: 6-6.png used on input line 1047.
+(pdftex.def)             Requested size: 168.19437pt x 180.67499pt.
+
+<6-7.png, id=357, 776.9025pt x 758.835pt>
+File: 6-7.png Graphic file (type png)
+ <use 6-7.png>
+Package pdftex.def Info: 6-7.png used on input line 1054.
+(pdftex.def)             Requested size: 195.0pt x 190.4609pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 1045--1058
+[][]   [] 
+ []
+
+<6-8.png, id=358, 769.37437pt x 800.9925pt>
+File: 6-8.png Graphic file (type png)
+ <use 6-8.png>
+Package pdftex.def Info: 6-8.png used on input line 1061.
+(pdftex.def)             Requested size: 381.79828pt x 397.48499pt.
+
+Underfull \vbox (badness 3209) has occurred while \output is active []
+
+ [72 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati
+ Documentation/6-1.png> <E:/From My PC/Documentation/Documentation/DR Haitham T
+oday/LateX/Eventati Documentation/6-2.png> <E:/From My PC/Documentation/Documen
+tation/DR Haitham Today/LateX/Eventati Documentation/6-3.png> <E:/From My PC/Do
+cumentation/Documentation/DR Haitham Today/LateX/Eventati Documentation/6-4.png
+> <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Do
+cumentation/6-5.png>] <6-9.png, id=362, 770.88pt x 1490.56876pt>
+File: 6-9.png Graphic file (type png)
+ <use 6-9.png>
+Package pdftex.def Info: 6-9.png used on input line 1070.
+(pdftex.def)             Requested size: 299.00699pt x 578.15999pt.
+
+
+LaTeX Warning: Float too large for page by 25.9933pt on input line 1074.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati
+ Documentation/6-6.png> <E:/From My PC/Documentation/Documentation/DR Haitham T
+oday/LateX/Eventati Documentation/6-7.png>] [74 <E:/From My PC/Documentation/Do
+cumentation/DR Haitham Today/LateX/Eventati Documentation/6-8.png>]
+<6-10.png, id=370, 770.88pt x 1166.85938pt>
+File: 6-10.png Graphic file (type png)
+ <use 6-10.png>
+Package pdftex.def Info: 6-10.png used on input line 1079.
+(pdftex.def)             Requested size: 386.7447pt x 585.38744pt.
+
+
+LaTeX Warning: Float too large for page by 33.22075pt on input line 1083.
+
+<6-11.png, id=371, 770.88pt x 1355.0625pt>
+File: 6-11.png Graphic file (type png)
+ <use 6-11.png>
+Package pdftex.def Info: 6-11.png used on input line 1088.
+(pdftex.def)             Requested size: 333.02461pt x 585.38744pt.
+
+
+LaTeX Warning: Float too large for page by 33.22075pt on input line 1092.
+
+<6-12.png, id=372, 770.88pt x 1355.0625pt>
+File: 6-12.png Graphic file (type png)
+ <use 6-12.png>
+Package pdftex.def Info: 6-12.png used on input line 1098.
+(pdftex.def)             Requested size: 333.02461pt x 585.38744pt.
+
+
+LaTeX Warning: Float too large for page by 33.22075pt on input line 1102.
+
+<6-13.png, id=373, 770.88pt x 1490.56876pt>
+File: 6-13.png Graphic file (type png)
+ <use 6-13.png>
+Package pdftex.def Info: 6-13.png used on input line 1108.
+(pdftex.def)             Requested size: 302.73575pt x 585.38744pt.
+
+
+LaTeX Warning: Float too large for page by 33.22075pt on input line 1112.
+
+[75] [76 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Even
+tati Documentation/6-9.png>] [77 <E:/From My PC/Documentation/Documentation/DR 
+Haitham Today/LateX/Eventati Documentation/6-10.png>] [78 <E:/From My PC/Docume
+ntation/Documentation/DR Haitham Today/LateX/Eventati Documentation/6-11.png>]
+[79 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/6-12.png>] [80 <E:/From My PC/Documentation/Documentation/DR Hait
+ham Today/LateX/Eventati Documentation/6-13.png>]
+<6-14.png, id=393, 234.1247pt x 109.91063pt>
+File: 6-14.png Graphic file (type png)
+ <use 6-14.png>
+Package pdftex.def Info: 6-14.png used on input line 1120.
+(pdftex.def)             Requested size: 184.73856pt x 86.72377pt.
+
+<6-15.png, id=394, 233.37187pt x 108.405pt>
+File: 6-15.png Graphic file (type png)
+ <use 6-15.png>
+Package pdftex.def Info: 6-15.png used on input line 1127.
+(pdftex.def)             Requested size: 195.0pt x 90.58482pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 1118--1131
+[][]   [] 
+ []
+
+<6-16.jpg, id=395, 1190.4475pt x 734.745pt>
+File: 6-16.jpg Graphic file (type jpg)
+ <use 6-16.jpg>
+Package pdftex.def Info: 6-16.jpg used on input line 1136.
+(pdftex.def)             Requested size: 468.37788pt x 289.07999pt.
+
+
+LaTeX Warning: Float too large for page by 80.76038pt on input line 1140.
+
+<6-17.png, id=396, 240.9pt x 361.35pt>
+File: 6-17.png Graphic file (type png)
+ <use 6-17.png>
+Package pdftex.def Info: 6-17.png used on input line 1144.
+(pdftex.def)             Requested size: 192.72025pt x 289.07999pt.
+
+<6-18.png, id=397, 244.66406pt x 365.86688pt>
+File: 6-18.png Graphic file (type png)
+ <use 6-18.png>
+Package pdftex.def Info: 6-18.png used on input line 1151.
+(pdftex.def)             Requested size: 195.0pt x 291.60527pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 1142--1155
+[][]   [] 
+ []
+
+<6-19.png, id=398, 243.15843pt x 363.60844pt>
+File: 6-19.png Graphic file (type png)
+ <use 6-19.png>
+Package pdftex.def Info: 6-19.png used on input line 1159.
+(pdftex.def)             Requested size: 193.32487pt x 289.07999pt.
+
+<6-20.png, id=399, 245.41687pt x 363.60844pt>
+File: 6-20.png Graphic file (type png)
+ <use 6-20.png>
+Package pdftex.def Info: 6-20.png used on input line 1166.
+(pdftex.def)             Requested size: 195.0pt x 288.91753pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 1157--1170
+[][]   [] 
+ []
+
+[81 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati 
+Documentation/6-14.png> <E:/From My PC/Documentation/Documentation/DR Haitham T
+oday/LateX/Eventati Documentation/6-15.png>] [82 <E:/From My PC/Documentation/D
+ocumentation/DR Haitham Today/LateX/Eventati Documentation/6-16.jpg>] [83 <E:/F
+rom My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Documenta
+tion/6-17.png> <E:/From My PC/Documentation/Documentation/DR Haitham Today/Late
+X/Eventati Documentation/6-18.png>] [84 <E:/From My PC/Documentation/Documentat
+ion/DR Haitham Today/LateX/Eventati Documentation/6-19.png> <E:/From My PC/Docu
+mentation/Documentation/DR Haitham Today/LateX/Eventati Documentation/6-20.png>
+]
+Chapter 7.
+<7-1.png, id=412, 529.22719pt x 291.33844pt>
+File: 7-1.png Graphic file (type png)
+ <use 7-1.png>
+Package pdftex.def Info: 7-1.png used on input line 1181.
+(pdftex.def)             Requested size: 262.56987pt x 144.54pt.
+ [85
+
+
+]
+<7-2.png, id=417, 883.3pt x 685.56125pt>
+File: 7-2.png Graphic file (type png)
+ <use 7-2.png>
+Package pdftex.def Info: 7-2.png used on input line 1198.
+(pdftex.def)             Requested size: 325.89938pt x 252.94499pt.
+
+<7-3.png, id=418, 800.9925pt x 639.38875pt>
+File: 7-3.png Graphic file (type png)
+ <use 7-3.png>
+Package pdftex.def Info: 7-3.png used on input line 1208.
+(pdftex.def)             Requested size: 316.87134pt x 252.94499pt.
+
+<7-4.png, id=419, 371.13657pt x 243.15843pt>
+File: 7-4.png Graphic file (type png)
+ <use 7-4.png>
+Package pdftex.def Info: 7-4.png used on input line 1228.
+(pdftex.def)             Requested size: 275.7637pt x 180.67499pt.
+ [86 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati
+ Documentation/7-1.png>] [87 <E:/From My PC/Documentation/Documentation/DR Hait
+ham Today/LateX/Eventati Documentation/7-2.png>] [88 <E:/From My PC/Documentati
+on/Documentation/DR Haitham Today/LateX/Eventati Documentation/7-3.png> <E:/Fro
+m My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Documentati
+on/7-4.png>]
+<7-5.png, id=433, 414.79968pt x 246.1697pt>
+File: 7-5.png Graphic file (type png)
+ <use 7-5.png>
+Package pdftex.def Info: 7-5.png used on input line 1245.
+(pdftex.def)             Requested size: 304.4532pt x 180.67499pt.
+
+<7-6.png, id=434, 354.57469pt x 264.99pt>
+File: 7-6.png Graphic file (type png)
+ <use 7-6.png>
+Package pdftex.def Info: 7-6.png used on input line 1258.
+(pdftex.def)             Requested size: 241.75684pt x 180.67499pt.
+
+<7-7.png, id=435, 408.77719pt x 383.93437pt>
+File: 7-7.png Graphic file (type png)
+ <use 7-7.png>
+Package pdftex.def Info: 7-7.png used on input line 1271.
+(pdftex.def)             Requested size: 257.53099pt x 241.87993pt.
+
+<7-8.png, id=436, 441.14813pt x 436.63126pt>
+File: 7-8.png Graphic file (type png)
+ <use 7-8.png>
+Package pdftex.def Info: 7-8.png used on input line 1281.
+(pdftex.def)             Requested size: 255.56317pt x 252.94499pt.
+
+<7-9.png, id=437, 361.35pt x 286.06876pt>
+File: 7-9.png Graphic file (type png)
+ <use 7-9.png>
+Package pdftex.def Info: 7-9.png used on input line 1292.
+(pdftex.def)             Requested size: 319.51077pt x 252.94499pt.
+ [89 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati
+ Documentation/7-5.png>] [90 <E:/From My PC/Documentation/Documentation/DR Hait
+ham Today/LateX/Eventati Documentation/7-6.png> <E:/From My PC/Documentation/Do
+cumentation/DR Haitham Today/LateX/Eventati Documentation/7-7.png>] [91 <E:/Fro
+m My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Documentati
+on/7-8.png>] [92 <E:/From My PC/Documentation/Documentation/DR Haitham Today/La
+teX/Eventati Documentation/7-9.png>]
+Chapter 8.
+
+Overfull \hbox (24.65817pt too wide) in paragraph at lines 1318--1319
+\OT1/cmr/m/n/12 Au-tho-rized users ac-tiv-i-ties like (Con-firm At-tend-ing,Rat
+e Event,Publish
+ []
+
+[93
+
+
+]
+Overfull \hbox (8.64304pt too wide) in paragraph at lines 1337--1338
+[]\OT1/cmr/m/n/12 Number 5 : Shows func-tions that au-tho-rized users can pub-l
+ish/share
+ []
+
+[94] <8-1.png, id=457, 769.37437pt x 800.9925pt>
+File: 8-1.png Graphic file (type png)
+ <use 8-1.png>
+Package pdftex.def Info: 8-1.png used on input line 1346.
+(pdftex.def)             Requested size: 416.51254pt x 433.62pt.
+
+Overfull \hbox (26.51254pt too wide) in paragraph at lines 1346--1347
+ [] 
+ []
+
+<8-17.png, id=458, 1027.84pt x 1243.64626pt>
+File: 8-17.png Graphic file (type png)
+ <use 8-17.png>
+Package pdftex.def Info: 8-17.png used on input line 1353.
+(pdftex.def)             Requested size: 358.36923pt x 433.62pt.
+
+<8-18.png, id=459, 1027.84pt x 1243.64626pt>
+File: 8-18.png Graphic file (type png)
+ <use 8-18.png>
+Package pdftex.def Info: 8-18.png used on input line 1360.
+(pdftex.def)             Requested size: 358.36923pt x 433.62pt.
+
+<8-2.png, id=460, 770.88pt x 1490.56876pt>
+File: 8-2.png Graphic file (type png)
+ <use 8-2.png>
+Package pdftex.def Info: 8-2.png used on input line 1368.
+(pdftex.def)             Requested size: 299.00699pt x 578.15999pt.
+
+
+LaTeX Warning: Float too large for page by 25.9933pt on input line 1372.
+
+<8-3.png, id=461, 770.88pt x 1166.85938pt>
+File: 8-3.png Graphic file (type png)
+ <use 8-3.png>
+Package pdftex.def Info: 8-3.png used on input line 1375.
+(pdftex.def)             Requested size: 381.96907pt x 578.15999pt.
+
+
+LaTeX Warning: Float too large for page by 25.9933pt on input line 1379.
+
+<8-4.png, id=462, 770.88pt x 1355.0625pt>
+File: 8-4.png Graphic file (type png)
+ <use 8-4.png>
+Package pdftex.def Info: 8-4.png used on input line 1382.
+(pdftex.def)             Requested size: 328.91945pt x 578.15999pt.
+
+
+LaTeX Warning: Float too large for page by 25.9933pt on input line 1386.
+
+<8-5.png, id=463, 770.88pt x 1355.0625pt>
+File: 8-5.png Graphic file (type png)
+ <use 8-5.png>
+Package pdftex.def Info: 8-5.png used on input line 1389.
+(pdftex.def)             Requested size: 328.91945pt x 578.15999pt.
+
+
+LaTeX Warning: Float too large for page by 25.9933pt on input line 1393.
+
+<8-6.png, id=464, 770.88pt x 1490.56876pt>
+File: 8-6.png Graphic file (type png)
+ <use 8-6.png>
+Package pdftex.def Info: 8-6.png used on input line 1396.
+(pdftex.def)             Requested size: 299.00699pt x 578.15999pt.
+
+
+LaTeX Warning: Float too large for page by 25.9933pt on input line 1400.
+
+<8-7.png, id=465, 245.41687pt x 363.60844pt>
+File: 8-7.png Graphic file (type png)
+ <use 8-7.png>
+Package pdftex.def Info: 8-7.png used on input line 1425.
+(pdftex.def)             Requested size: 195.12045pt x 289.07999pt.
+
+<8-8.png, id=466, 241.65282pt x 357.58594pt>
+File: 8-8.png Graphic file (type png)
+ <use 8-8.png>
+Package pdftex.def Info: 8-8.png used on input line 1432.
+(pdftex.def)             Requested size: 195.0pt x 288.56267pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 1423--1436
+[][]   [] 
+ []
+
+<8-9.png, id=467, 243.91125pt x 363.60844pt>
+File: 8-9.png Graphic file (type png)
+ <use 8-9.png>
+Package pdftex.def Info: 8-9.png used on input line 1441.
+(pdftex.def)             Requested size: 193.9234pt x 289.07999pt.
+
+<8-10.png, id=468, 243.15843pt x 364.36125pt>
+File: 8-10.png Graphic file (type png)
+ <use 8-10.png>
+Package pdftex.def Info: 8-10.png used on input line 1448.
+(pdftex.def)             Requested size: 195.0pt x 292.19547pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 1439--1452
+[][]   [] 
+ []
+
+<8-11.png, id=469, 332.24126pt x 493.845pt>
+File: 8-11.png Graphic file (type png)
+ <use 8-11.png>
+Package pdftex.def Info: 8-11.png used on input line 1456.
+(pdftex.def)             Requested size: 194.47948pt x 289.07999pt.
+
+<8-12.png, id=470, 243.91125pt x 355.3275pt>
+File: 8-12.png Graphic file (type png)
+ <use 8-12.png>
+Package pdftex.def Info: 8-12.png used on input line 1463.
+(pdftex.def)             Requested size: 195.0pt x 284.07802pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 1454--1467
+[][]   [] 
+ []
+
+<8-13.png, id=471, 244.66406pt x 365.86688pt>
+File: 8-13.png Graphic file (type png)
+ <use 8-13.png>
+Package pdftex.def Info: 8-13.png used on input line 1471.
+(pdftex.def)             Requested size: 193.32355pt x 289.07999pt.
+
+<8-14.png, id=472, 243.15843pt x 363.60844pt>
+File: 8-14.png Graphic file (type png)
+ <use 8-14.png>
+Package pdftex.def Info: 8-14.png used on input line 1478.
+(pdftex.def)             Requested size: 195.0pt x 291.59177pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 1469--1482
+[][]   [] 
+ []
+
+<8-15.png, id=473, 245.41687pt x 363.60844pt>
+File: 8-15.png Graphic file (type png)
+ <use 8-15.png>
+Package pdftex.def Info: 8-15.png used on input line 1486.
+(pdftex.def)             Requested size: 195.12045pt x 289.07999pt.
+
+<8-16.png, id=474, 246.9225pt x 365.11406pt>
+File: 8-16.png Graphic file (type png)
+ <use 8-16.png>
+Package pdftex.def Info: 8-16.png used on input line 1493.
+(pdftex.def)             Requested size: 195.0pt x 288.33665pt.
+
+Overfull \hbox (19.44853pt too wide) in paragraph at lines 1484--1497
+[][]   [] 
+ []
+
+[95] [96 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Even
+tati Documentation/8-1.png>] [97 <E:/From My PC/Documentation/Documentation/DR 
+Haitham Today/LateX/Eventati Documentation/8-17.png (PNG copy)>] [98 <E:/From M
+y PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Documentation/
+8-18.png (PNG copy)>] [99 <E:/From My PC/Documentation/Documentation/DR Haitham
+ Today/LateX/Eventati Documentation/8-2.png>] [100 <E:/From My PC/Documentation
+/Documentation/DR Haitham Today/LateX/Eventati Documentation/8-3.png>] [101 <E:
+/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Documen
+tation/8-4.png>] [102 <E:/From My PC/Documentation/Documentation/DR Haitham Tod
+ay/LateX/Eventati Documentation/8-5.png>] [103 <E:/From My PC/Documentation/Doc
+umentation/DR Haitham Today/LateX/Eventati Documentation/8-6.png>] [104 <E:/Fro
+m My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Documentati
+on/8-7.png> <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/E
+ventati Documentation/8-8.png>] [105 <E:/From My PC/Documentation/Documentation
+/DR Haitham Today/LateX/Eventati Documentation/8-9.png> <E:/From My PC/Document
+ation/Documentation/DR Haitham Today/LateX/Eventati Documentation/8-10.png>]
+[106 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati
+ Documentation/8-11.png> <E:/From My PC/Documentation/Documentation/DR Haitham 
+Today/LateX/Eventati Documentation/8-12.png>] [107 <E:/From My PC/Documentation
+/Documentation/DR Haitham Today/LateX/Eventati Documentation/8-13.png> <E:/From
+ My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventati Documentatio
+n/8-14.png>] [108 <E:/From My PC/Documentation/Documentation/DR Haitham Today/L
+ateX/Eventati Documentation/8-15.png> <E:/From My PC/Documentation/Documentatio
+n/DR Haitham Today/LateX/Eventati Documentation/8-16.png>]
+Chapter 9.
+<9-1.png, id=529, 539.76656pt x 112.92188pt>
+File: 9-1.png Graphic file (type png)
+ <use 9-1.png>
+Package pdftex.def Info: 9-1.png used on input line 1502.
+(pdftex.def)             Requested size: 377.83401pt x 79.04475pt.
+ [109
+
+
+] [110 <E:/From My PC/Documentation/Documentation/DR Haitham Today/LateX/Eventa
+ti Documentation/9-1.png>]
+Overfull \hbox (0.87094pt too wide) in paragraph at lines 1524--1525
+\OT1/cmr/m/n/12 at[http://d1glibrary.d1g.com/main/show/4239130] [Ac-cessed 24 M
+arch
+ []
+
+
+Overfull \hbox (66.9912pt too wide) in paragraph at lines 1525--1528
+[]\OT1/cmr/m/n/12 [avtec] ,[URL] Avail-able at: [ http://avtecmedia.com/credit-
+union-marketing/social-
+ []
+
+
+Overfull \hbox (97.82422pt too wide) in paragraph at lines 1528--1530
+[]\OT1/cmr/m/n/12 [Flicker],March 2011 [URL] Avail-able at: [http://www.flickr.
+com/photos/99447525@N00/]
+ []
+
+
+Overfull \hbox (123.12534pt too wide) in paragraph at lines 1530--1532
+[]\OT1/cmr/m/n/12 [Hamid Sho-jaee],17 Septem-ber 2008, [URL] Avail-able at [htt
+p://www.youtube.com/user/axoso-
+ []
+
+
+Overfull \hbox (36.04985pt too wide) in paragraph at lines 1532--1534
+[]\OT1/cmr/m/n/12 [pyhton], [URL] Avail-able at [ http://www.python.org/doc/ess
+ays/blurb.html]
+ []
+
+
+Overfull \hbox (89.24106pt too wide) in paragraph at lines 1535--1536
+[]\OT1/cmr/m/n/12 [MVC ], [URL] Avail-able at [http://media2mult.uos.de/pmwiki/
+fields/ame10/index.php-
+ []
+
+
+Overfull \hbox (45.87198pt too wide) in paragraph at lines 1536--1537
+[]\OT1/cmr/m/n/12 [James Tauber ],10 Oc-to-ber 2011, [URL] Avail-able at [http:
+//pinaxproject.com/]
+ []
+
+
+Overfull \hbox (70.7995pt too wide) in paragraph at lines 1537--1538
+[]\OT1/cmr/m/n/12 [El-wasat], 25 May 2011 [URL] Avail-able at:[ http://www.el-w
+asat.com/portal/News-
+ []
+
+
+Overfull \hbox (122.23785pt too wide) in paragraph at lines 1538--1539
+[]\OT1/cmr/m/n/12 [Django Ap-pli-ca-tion], 23 May 2011 [URL] Avail-able at:[htt
+p://www.programmersbook.com/pa-
+ []
+
+
+Overfull \hbox (18.94023pt too wide) in paragraph at lines 1538--1539
+\OT1/cmr/m/n/12 ge/39/Activate-the-Admin-Full-Web-Framework-Python-Django-Tutor
+ial-
+ []
+
+
+Overfull \hbox (124.52257pt too wide) in paragraph at lines 1539--1540
+[]\OT1/cmr/m/n/12 [Viktor, ShoutEm CEO], 7 Febru-ary 2011 [URL] Avail-able at:[
+http://blog.shoutem.com/author-
+ []
+
+
+Overfull \hbox (125.73225pt too wide) in paragraph at lines 1540--1541
+[]\OT1/cmr/m/n/12 [book keeper], 23 May 2011, [URL] Avail-able at:[ http://www.
+programmersbook.com/][Accessed
+ []
+
+
+Overfull \hbox (102.82pt too wide) in paragraph at lines 1541--1542
+[]\OT1/cmr/m/n/12 [Richard Bate-man], 21 Au-gust 2011 [URL] Avail-able at:[http
+://developer.appcelerator.com-
+ []
+
+
+Overfull \hbox (66.52176pt too wide) in paragraph at lines 1542--1543
+[]\OT1/cmr/m/n/12 [Appcelerator,Inc.], 17 April 2012 ,[URL] Avail-able at:[http
+://en.wikipedia.org/wiki-
+ []
+
+[111]
+("E:\From My PC\Documentation\Documentation\DR Haitham Today\LateX\Eventati Doc
+umentation\DrHaitham 1.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 382 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 2942 strings out of 494045
+ 35290 string characters out of 3148369
+ 88107 words of memory out of 3000000
+ 6100 multiletter control sequences out of 15000+200000
+ 10756 words of font info for 40 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 27i,10n,27p,1360b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "DrHaitham 1.pdf" (123 pages, 19144182 bytes).
+PDF statistics:
+ 561 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 566 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,18 @@
+In Intelligent Recommender Process:
+===================================
+1 - Track Student Progress
+	a) System shall maintain a Log to verify that student has attended LO. Check SCORM for more details. Incase available, system shall maintain where students currently is reading, so when exited, system can restore students session. System shall record the generated LOs list also, so it doesn' have to generate it everytime student logs in.
+	b) System shall make sure that student ranks every LO before moving to the next LO
+	c) System shall Prepare (Further Reading Section). Some LOs might have Further Reading Sections. This Further Reading data is gathered and displayed. Another suggestion is that: incase we want, a relation between topics can display (LOs of other keywords that are closely related to this keyword as further reading, example: for more information about [kaza] you can see: .............]
+
+2 - Student Ranks LO
+	a) System shall maintain records for (Student) rank to (each LO)
+	b) System shall provide an Overall LO Rank from same student Classes).   -> Important 
+		this will be like: Visual Students liked that LO [no.]%
+					Auditory Students liked that LO [no]%
+					Navigators Students liked that LO [no]%
+	c) System shall maintain an overall Rank to LO
+	d) Instructors will not Rank LO explicitly, because they are the main source for providing LOs to the system
+
+3 - Study Plan Service (Topics Learning Plan)
+System shall Provide a (Where to Go from Here) when student finishes learning about some topic and starting to move to the next topic. As discussed with Dr.Hamdy, Topics Study Plan is Guided by Instructor, sometimes there are learning topics that must be followed in order, and sometimes Topics might be available freely for chosing from. In this case, an Intelligent Study Planner Service can help.

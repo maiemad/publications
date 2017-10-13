@@ -1,0 +1,15 @@
+1 - Students will be divided into Groups. Groups start will be timely separated by (two weeks).
+
+2 - Webinar -> Online Lecture concept will be presented in our system. Online Lectures will be recorded and saved in the system as Webinars. Those webinars will be utilized in the system as LOs. 
+
+3 - Lecture doesn't have to be at the beginning of the topic. Students can watch Recorded Webinars that illustrates certain topic when they start learning some subjects. Online lectures take place at anytime the Instructor is available. There are several instructors that can illustrate certain topics, and are avaialble to answer questions. Students who are learning those subjects are asked to attend the lecture.
+
+4 - For each learning group, there are certain dates for exams and that stuff. Students are asked to log-in and attend the exams. Those dates will be used to update this Learning Group agenda. There will be three levels for agendas data: Students, Learning Group, and Personal. Students level include global notifications and updates that all students shall be notified with, like vacations and that stuff.
+
+5 - Calculating Time Required for Student for Learning a Topic: One of the Intelligent Services provided by the system. This service calculates Total Time Required for Student to Study LOs that form the assets of that topic. Shift between instructor defined time and actual time that student consumes to learn is taken into consideration.
+
+Its output will affect (Study Time Planner Service; it is the service that arranges student time table in the agenda) in a manner that: if student needs more hours to study certain topic, it will increase study hours for this student, because all of them will finish within predefined time.
+
+6 - Failed students will be moved to a group that began later. Success students will wait for (6 days) between major checkpoints till students who failed first attempt to pass arrange their situations. That means, for failed students, the time between first attempt and second attempt doesn't exceed (4 days).
+
+Note: This system relies heavily on (automated time management) and it is really an amazing problem to be solved.

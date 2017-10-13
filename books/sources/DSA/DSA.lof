@@ -1,0 +1,31 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Array}}{46}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Linear List}}{49}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Stack Operations}}{50}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Queue Operations}}{50}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces A Record to be Hashed}}{51}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces A Tree Collection}}{52}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Set Collection Operations}}{52}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces The Traveling Salesman Problem}}{53}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces A Network Collection}}{53}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The contents of an array are laid out contiguously in the managed heap.}}{78}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces The contents of an array are laid out contiguously in the managed heap.}}{79}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces The ArrayList contains a contiguous block of object references.}}{80}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Stack Two Main Operations: Push, and Pop}}{84}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces The ArrayList after the first two lines of code}}{95}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Program after the GetNextJob() method is invoked}}{96}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Issue Created by placing jobs in the 0 index}}{96}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Example of a Circular Array}}{97}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Queue Operations}}{99}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces How Python Code and Iron Python fit into .Net}}{154}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

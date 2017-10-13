@@ -1,0 +1,64 @@
+Abstract
+--------
+
+(Remember to talk about utilized data mining techniques in the Introduction section)
+
+Introduction
+------------
+* LMSs don't provide advanced assessments' results analysis. Moodle provides only an (Item Analysis Tool -> Figure 1 "Take it from any assessment") that only shows how many students have answered this question item correctly. LMS can't provide tools to group students' answers based on questions' difficuly level, and can't aggregate students' answers.
+
+* Importance of Further Analysis of Statistics Results. Some notifications can arise from such further analysis. Notes like: 
+- Do students have enough time to answer the quiz ?
+- What's the optimal time for answering this quiz ?
+- What's the optimal type of questions to use when assessing students ? Is it True/False, MCQ, or Matching questions ?
+- Is it appropriate to separate each type of questions in different quizzes, or it is better to mix them together ?
+- What's the effect of utilizing different types of questions together?
+- An example of advanced assessments' data analysis that helps instructor to have feedback of students' responses. It's adequate to remove questions that students answers easily. 
+
+Research Questions:
+-------------------
+1 - Are Unsupervized Online assessments efficient ? 
+2 - Do students cheat ?
+3 - What are the proofs ?
+4 - Can instructors trust Unsupervized Online assessments' results ?
+5 - What is Gender's effect on student's behavior ? Do females study harder than males ? Do they belong to Student Categories that score higher marks ?
+
+
+
+Comments on Results:
+--------------------
+1 - Students Spend Larger Time Online
+2 - Male and Female Matters
+
+Propsed Solution:
+-----------------
+
+Conclusion:
+-----------
+1 - Though it's important to leave time for students to think about the quiz, don't leave much time for them to cheat.
+
+2 - Instructors can use advanced statistical analysis tools in further analyzing quizzes and their results. Dividing students into groups is helpful in studying each group's characteristics.
+
+3 - Instructors can use simple data mining tools and techniques in further analyzing quizzes and results. By categorizing students into groups, instructors can become closer into categories characteristics.
+
+4 - Data Mining tools can identify what questions identified each group. Instructors classify questions into: Easy, Medium, and Hard. However, real difficulty level of those question appears only after examining students. Certain questions are used to identify each category. Identify those questions, and adapt your quiz based on quizzes results. Maintain those questions when you want to test students of that level, and change them when you want to modify the level of quizzes.
+
+Conclusion:
+===========
+In the very beginning, my problem was with category that don't spend enough time reading the questions, and they get average marks (around 20 out of 50). I suspended they are cheating, and started the study conducted in this paper. After further analyzing and mining assessments' data, it is clear that instructors and assessments need to address two categories of problems that cause problems:
+1 - Students who actually don't read the questions and try their choices in the exams by selecting what makes sense to them. Those students can be easily entraptmented via (Hard Questions) as we have noticed from analyzing group's responses to hard questions. Tricky questions can serve also in filtering this category.
+2 - Students who take too much long time solving the quizzes. Instructors shall not leave long times, because students who cheats usually spend much time solving the quiz (based on this study). 
+
+It's also useful not to tell students that LMSs have the ability to track students' habbits in the assessments. Further and advances statistical analysis tools is required of course. Data Mining techniques and tools are useful.
+
+=======================
+The Main Question of the Study: What's the relation between Time and Scored Marks? Is it proportional: Meaning that the more time the student spends solving the assessment, the higher marks s/he gets ?
+
+and after anlayizing data, it is clear that: there is an optimal time, and that should be the time given to student to answer the assessment. If this time is not adequately detected, there will be cheating. Also, there is a minimum time, at least time needed for reading the questions. Students who solve the assessments in almost no time shall not miss marks, however, they shall be recoreded so the instructor check them separetly.
+
+Our Triangle identifies three lines:
+( Questions, Marks, Time )
+
+There Must be balance between three of them, and that balance is controlled by (Instructor) because he is the leading and determining of this process, in order to lead to a better learning environment, and a better learned student as the outcome.
+
+===============> From Intersection Students: It's Clear that Students are Cheating. So, there are important need to utilize supervised e-Learning environments, and present techniques to fight cheating, as highlighted in the end of the paper.

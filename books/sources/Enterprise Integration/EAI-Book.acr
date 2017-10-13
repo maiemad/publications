@@ -1,0 +1,493 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{A}\relax \glsresetentrylist %
+\glossaryentryfield{ADL}{\glsnamefont{ADL}}{Advanced Distributed Learning\protect \glsadd {glos:ADL}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{139\delimN 140}}}%
+\glossaryentryfield{AEHS}{\glsnamefont{AEHS}}{Adaptive Educational Hypermedia Systems\protect \glsadd {glos:AEHS}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{122\delimN 123}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{126\delimN 127}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{146}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{276}}}%
+\glossaryentryfield{AIEHS}{\glsnamefont{AIEHS}}{Adaptive Intelligent Educational Hypermedia Systems\protect \glsadd {glos:AIEHS}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{127}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{276}}}%
+\glossaryentryfield{ANN}{\glsnamefont{ANN}}{Artificial Neural Network\protect \glsadd {glos:ANN}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{5\delimN 6}}}%
+\glossaryentryfield{ANSI/IEEE}{\glsnamefont{ANSI/IEEE}}{American National Standards Institute / Institute of Electrical and Electronics Engineers}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{8}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{23}}}%
+\glossaryentryfield{ARPA}{\glsnamefont{ARPA}}{Advanced Research Projects Agency}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{85}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{133}}}\glsgroupskip
+\glsgroupheading{B}\relax \glsresetentrylist %
+\glossaryentryfield{BA}{\glsnamefont{BA}}{Business Analytics\protect \glsadd {glos:BA}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{2}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{276}}}%
+\glossaryentryfield{BI}{\glsnamefont{BI}}{Business Intelligence\protect \glsadd {glos:BI}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{1\delimN 2}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{36}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{280}}}%
+\glossaryentryfield{BPEL}{\glsnamefont{BPEL}}{Business Process Execution Language}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{89\delimN 90}}}%
+\glossaryentryfield{BPEL4WS}{\glsnamefont{BPEL4WS}}{Business Process Execution Language for Webservice}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{89}}}%
+\glossaryentryfield{BPM}{\glsnamefont{BPM}}{Business Process Management\protect \glsadd {glos:BPM}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{xxii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{3}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{23}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{79}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{81\delimR 83}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{87}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{89}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{94\delimN 95}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{114\delimN 115}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{280}}}%
+\glossaryentryfield{BPMN}{\glsnamefont{BPMN}}{Business Process Modeling Notation}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{87}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{89}}}%
+\glossaryentryfield{BPMS}{\glsnamefont{BPMS}}{Business Process Management System\protect \glsadd {glos:BPM}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{viii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{xxii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{79}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{81}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{83}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{87\delimR 89}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{94\delimN 95}}}%
+\glossaryentryfield{BPR}{\glsnamefont{BPR}}{Business Process Reengineering}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{82}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{94}}}\glsgroupskip
+\glsgroupheading{C}\relax \glsresetentrylist %
+\glossaryentryfield{CASE}{\glsnamefont{CASE}}{Computer assisted Systems Engineering\protect \glsadd {glos:CASE}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{3}}}%
+\glossaryentryfield{CBA}{\glsnamefont{CBA}}{Component Based Architecture}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{54}}}%
+\glossaryentryfield{CMS}{\glsnamefont{CMS}}{Course Management System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{viii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{xxii\delimN xxiii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{101}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{111}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{113}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{128}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{140\delimN 141}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{147\delimR 150}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{153}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{155}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{163\delimR 165}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{192}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{194}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{214}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{226\delimN 227}}}%
+\glossaryentryfield{CORBA}{\glsnamefont{CORBA}}{Common Object Request Broker\protect \glsadd {glos:CORBA}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{14}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{32}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{48}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{50}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{65}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{74}}}%
+\glossaryentryfield{CRM}{\glsnamefont{CRM}}{Customer Relation Management\protect \glsadd {glos:CRM}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{4}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{6}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{36}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{278}}}\glsgroupskip
+\glsgroupheading{D}\relax \glsresetentrylist %
+\glossaryentryfield{DB}{\glsnamefont{DB}}{Data Base\protect \glsadd {glos:DB}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{2\delimR 4}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{18}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{24}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{31\delimR 33}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{35}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{39}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{42}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{72}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{100}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{150}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{153}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{155}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{157}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{160}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{163}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{172}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{175\delimR 177}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{179}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{218}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{220}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{222}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{231\delimR 236}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{238\delimR 241}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{244}}}%
+\glossaryentryfield{DBMS}{\glsnamefont{DBMS}}{Database Management System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{35}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{39}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{234}}}%
+\glossaryentryfield{DCE}{\glsnamefont{DCE}}{Distributed Computing Environment}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{14}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{74}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{119}}}%
+\glossaryentryfield{DM}{\glsnamefont{DM}}{Data Mining\protect \glsadd {glos:DM}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{2}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{129}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{132}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{280}}}%
+\glossaryentryfield{DSS}{\glsnamefont{DSS}}{Decision Support System\protect \glsadd {glos:DSS}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{xxi}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{1\delimN 2}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{5}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{20}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{277}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{280}}}%
+\glossaryentryfield{DW}{\glsnamefont{DW}}{Data Warehouse\protect \glsadd {glos:DW}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{2}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{32}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{35}}}\glsgroupskip
+\glsgroupheading{E}\relax \glsresetentrylist %
+\glossaryentryfield{EA}{\glsnamefont{EA}}{Enterprise Architecture\protect \glsadd {glos:EA}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{vii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{ix}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{xxi}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{1}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{7\delimR 9}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{11}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{13}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{20\delimN 21}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{23\delimR 25}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{52}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{55\delimN 56}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{227\delimN 228}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{278}}}%
+\glossaryentryfield{EAI}{\glsnamefont{EAI}}{Enterprise Application Integration\protect \glsadd {glos:EAI}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{18}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{31}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{70\delimR 72}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{278\delimN 279}}}%
+\glossaryentryfield{EIP}{\glsnamefont{EIP}}{Enterprise Information Portal\protect \glsadd {glos:EIP}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{3}}}%
+\glossaryentryfield{EIS}{\glsnamefont{EIS}}{Enterprise Information System\protect \glsadd {glos:EIS}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{xxii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{3}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{6}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{79\delimR 81}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{84}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{87}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{94}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{278}}}%
+\glossaryentryfield{ELF}{\glsnamefont{ELF}}{E-Learning Framework\protect \glsadd {glos:ELF}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{138}}}%
+\glossaryentryfield{ERM}{\glsnamefont{ERM}}{Enterprise Resource Management\protect \glsadd {glos:ERM}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{4}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{6}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{278}}}%
+\glossaryentryfield{ERP}{\glsnamefont{ERP}}{Enterprise Resource Planning\protect \glsadd {glos:ERP}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{4}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{6}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{36}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{82}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{278}}}%
+\glossaryentryfield{ES}{\glsnamefont{ES}}{Expert System\protect \glsadd {glos:ES}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{5\delimN 6}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{134}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{279}}}%
+\glossaryentryfield{ESB}{\glsnamefont{ESB}}{Enterprise Service Bus\protect \glsadd {glos:ESB}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{xxi}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{57}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{70\delimN 71}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{77\delimN 78}}}\glsgroupskip
+\glsgroupheading{F}\relax \glsresetentrylist %
+\glossaryentryfield{FIPA}{\glsnamefont{FIPA}}{Foundation for Intelligent Physical Agents}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{63}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{85}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{133}}}\glsgroupskip
+\glsgroupheading{G}\relax \glsresetentrylist %
+\glossaryentryfield{GSS}{\glsnamefont{GSS}}{Group Support System\protect \glsadd {glos:GSS}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{3}}}\glsgroupskip
+\glsgroupheading{H}\relax \glsresetentrylist %
+\glossaryentryfield{HTTP}{\glsnamefont{HTTP}}{Hyper Text Transfer Protocol}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{63}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{65}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{67}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{77}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{86}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{136}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{207}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{216}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{281}}}\glsgroupskip
+\glsgroupheading{I}\relax \glsresetentrylist %
+\glossaryentryfield{IA}{\glsnamefont{IA}}{Intelligent Agent\protect \glsadd {glos:IA}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{5\delimR 7}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{59}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{128}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{132}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{232}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{279}}}%
+\glossaryentryfield{IS}{\glsnamefont{IS}}{Information System\protect \glsadd {glos:IS}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{viii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{xxi\delimN xxii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{xxiv}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{1}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{3}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{20}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{23}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{25}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{30}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{57}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{68\delimN 69}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{77}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{79}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{81\delimR 84}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{87}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{99}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{110}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{115}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{118}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{136}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{142}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{177}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{183}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{188}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{201}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{211}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{213\delimN 214}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{216}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{222}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{228}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{235}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{277}}}%
+\glossaryentryfield{ISO/IEC}{\glsnamefont{ISO/IEC}}{International Organization for Standardization / International Electrotechnical Commission}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{8}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{87}}}%
+\glossaryentryfield{ITS}{\glsnamefont{ITS}}{Intelligent Tutoring System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{122}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{127}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{129}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{133\delimR 135}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{144}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{276}}}\glsgroupskip
+\glsgroupheading{K}\relax \glsresetentrylist %
+\glossaryentryfield{KAoS}{\glsnamefont{KAoS}}{Knowledgeable Agent-oriented System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{63}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{85}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{133}}}%
+\glossaryentryfield{KIF}{\glsnamefont{KIF}}{Kowledge Interchange Format}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{63}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{85}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{132}}}%
+\glossaryentryfield{KMP}{\glsnamefont{KMP}}{Knowledge Management Portal\protect \glsadd {glos:KMP}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{5}}}%
+\glossaryentryfield{KMS}{\glsnamefont{KMS}}{Knowledge Management System\protect \glsadd {glos:KMS}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{4}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{280}}}%
+\glossaryentryfield{KQML}{\glsnamefont{KQML}}{Knowledge Query and Manipulation Language}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{60}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{85}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{132}}}\glsgroupskip
+\glsgroupheading{L}\relax \glsresetentrylist %
+\glossaryentryfield{LMS}{\glsnamefont{LMS}}{Learning Management System\protect \glsadd {glos:LMS}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{viii\delimN ix}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{xi}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{xxii\delimR xxiv}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{97}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{102\delimR 107}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{109\delimR 113}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{115}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{117\delimN 118}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{120}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{128\delimN 129}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{137}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{139\delimN 140}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{142\delimR 144}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{146}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{150}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{167\delimR 169}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{172}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{175\delimR 177}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{179}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{182\delimN 183}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{192}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{197}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{200}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{205}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{211\delimR 216}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{226\delimR 229}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{271\delimN 272}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{280}}}\glsgroupskip
+\glsgroupheading{M}\relax \glsresetentrylist %
+\glossaryentryfield{MAS}{\glsnamefont{MAS}}{Multi Agent System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{vii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{59\delimR 63}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{85\delimN 86}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{132\delimN 133}}}%
+\glossaryentryfield{MIS}{\glsnamefont{MIS}}{Management Information System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{99}}}%
+\glossaryentryfield{MNAS}{\glsnamefont{MNAS}}{Mobile News Agent System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{ix}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{xxiv}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{232\delimN 233}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{235\delimN 236}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{238\delimN 239}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{241}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{244\delimR 246}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{251}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{254}}}%
+\glossaryentryfield{moodle}{\glsnamefont{moodle}}{Modular Object Oriented Dynamic Learning Environment\protect \glsadd {glos:moodle}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{128}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{137}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{272}}}%
+\glossaryentryfield{MSS}{\glsnamefont{MSS}}{Management Support System\protect \glsadd {glos:MSS}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{1}}}\glsgroupskip
+\glsgroupheading{N}\relax \glsresetentrylist %
+\glossaryentryfield{NAEP}{\glsnamefont{NAEP}}{National Assessment of Education Process}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{118}}}\glsgroupskip
+\glsgroupheading{O}\relax \glsresetentrylist %
+\glossaryentryfield{OKI}{\glsnamefont{OKI}}{Open Knowledge Initiative\protect \glsadd {glos:OKI}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{142\delimN 143}}}%
+\glossaryentryfield{OLAP}{\glsnamefont{OLAP}}{Online Analytical Processing\protect \glsadd {glos:OLAP}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{2\delimN 3}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{280}}}\glsgroupskip
+\glsgroupheading{R}\relax \glsresetentrylist %
+\glossaryentryfield{ROI}{\glsnamefont{ROI}}{Return On Investment}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{92}}}%
+\glossaryentryfield{RPC}{\glsnamefont{RPC}}{Remote Procedure Call}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{32}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{46}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{74}}}\glsgroupskip
+\glsgroupheading{S}\relax \glsresetentrylist %
+\glossaryentryfield{SCM}{\glsnamefont{SCM}}{Supply Chain Management\protect \glsadd {glos:SCM}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{4}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{6}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{36}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{63}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{86}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{136}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{280}}}%
+\glossaryentryfield{SMTP}{\glsnamefont{SMTP}}{Simple Mail Transfer Protocol}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{281}}}%
+\glossaryentryfield{SOA}{\glsnamefont{SOA}}{Service Oriented Architecture\protect \glsadd {glos:SOA}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{viii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{xxi\delimR xxiv}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{13\delimR 21}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{29}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{48}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{50}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{52}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{54\delimR 59}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{63\delimN 64}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{66}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{68}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{70}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{72\delimR 79}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{81}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{84\delimR 88}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{90\delimR 95}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{113\delimR 115}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{118\delimN 119}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{128}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{136\delimN 137}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{139\delimR 142}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{144\delimR 147}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{164\delimN 165}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{182}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{190}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{204}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{207\delimN 208}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{214}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{216\delimR 218}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{222}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{226\delimR 229}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{254}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{279\delimN 280}}}%
+\glossaryentryfield{SOAP}{\glsnamefont{SOAP}}{Simple Object Access Protocol\protect \glsadd {glos:SOAP}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{54}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{57}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{63\delimR 65}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{67\delimN 68}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{74\delimR 77}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{86}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{136\delimN 137}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{143}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{150}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{168}}}%
+\glossaryentryfield{SOI}{\glsnamefont{SOI}}{Service Oriented Integration}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{18}}}%
+\glossaryentryfield{SW}{\glsnamefont{SW}}{Software}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{26}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{56}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{165}}}\glsgroupskip
+\glsgroupheading{T}\relax \glsresetentrylist %
+\glossaryentryfield{TQM}{\glsnamefont{TQM}}{Total Quality Management}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{82}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{94}}}\glsgroupskip
+\glsgroupheading{U}\relax \glsresetentrylist %
+\glossaryentryfield{UDDI}{\glsnamefont{UDDI}}{Universal Description Discovery and Integration\protect \glsadd {glos:UDDI}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{63\delimR 66}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{153}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{281}}}%
+\glossaryentryfield{UMIS}{\glsnamefont{UMIS}}{University Management Information System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{ix}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{xxii}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{xxiv}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{97}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{99}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{101}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{106}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{110\delimR 112}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{115}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{118}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{140}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{183}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{205}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{211\delimR 215}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{226}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{228}}}\glsgroupskip
+\glsgroupheading{V}\relax \glsresetentrylist %
+\glossaryentryfield{VLE}{\glsnamefont{VLE}}{Virtual Learning Environment}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{102\delimN 103}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{115}}}\glsgroupskip
+\glsgroupheading{W}\relax \glsresetentrylist %
+\glossaryentryfield{W3C}{\glsnamefont{W3C}}{World Wide Web Consortium}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{66}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{84}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{86}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{136}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{281}}}%
+\glossaryentryfield{WfMC}{\glsnamefont{WfMC}}{Workflow Management Coalition}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{89}}}%
+\glossaryentryfield{WfMS}{\glsnamefont{WfMS}}{Workflow Management System}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{82}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{95}}}%
+\glossaryentryfield{WOA}{\glsnamefont{WOA}}{Web Oriented Architecture}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{208}}}%
+\glossaryentryfield{WSDL}{\glsnamefont{WSDL}}{Webservice Description Language\protect \glsadd {glos:WSDL}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{14}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{57}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{63\delimR 67}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{74\delimN 75}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{77}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{86}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{136}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{223}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{281}}}\glsgroupskip
+\glsgroupheading{X}\relax \glsresetentrylist %
+\glossaryentryfield{XML}{\glsnamefont{XML}}{Extensible Markup Language\protect \glsadd {glos:XML}}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{57}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{63\delimR 65}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{67}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{74}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{77}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{86}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{89\delimN 90}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{119}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{133}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{136}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{143\delimN 144}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{150}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{207}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{217}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{225}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{233}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{236}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{238}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{241}\delimN 
+		\setentrycounter[]{page}\glsnumberformat{281}}}%
+\glossaryentryfield{XPDL}{\glsnamefont{XPDL}}{XML Process Definition Language}{\relax }{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{89}}}%
+\end{theglossary}\glossarypostamble
